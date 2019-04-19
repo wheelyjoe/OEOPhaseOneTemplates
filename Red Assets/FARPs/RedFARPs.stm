@@ -1,0 +1,899 @@
+staticTemplate = 
+{
+    ["coalition"] = 
+    {
+        ["blue"] = 
+        {
+            ["name"] = "blue",
+            ["country"] = 
+            {
+                [1] = 
+                {
+                    ["id"] = 21,
+                    ["name"] = "Australia",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["id"] = 65,
+                    ["name"] = "Bahrain",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["id"] = 11,
+                    ["name"] = "Belgium",
+                }, -- end of [3]
+                [4] = 
+                {
+                    ["id"] = 8,
+                    ["name"] = "Canada",
+                }, -- end of [4]
+                [5] = 
+                {
+                    ["id"] = 28,
+                    ["name"] = "Croatia",
+                }, -- end of [5]
+                [6] = 
+                {
+                    ["id"] = 26,
+                    ["name"] = "Czech Republic",
+                }, -- end of [6]
+                [7] = 
+                {
+                    ["id"] = 13,
+                    ["name"] = "Denmark",
+                }, -- end of [7]
+                [8] = 
+                {
+                    ["id"] = 5,
+                    ["name"] = "France",
+                }, -- end of [8]
+                [9] = 
+                {
+                    ["id"] = 16,
+                    ["name"] = "Georgia",
+                }, -- end of [9]
+                [10] = 
+                {
+                    ["id"] = 6,
+                    ["name"] = "Germany",
+                }, -- end of [10]
+                [11] = 
+                {
+                    ["id"] = 15,
+                    ["name"] = "Israel",
+                }, -- end of [11]
+                [12] = 
+                {
+                    ["id"] = 20,
+                    ["name"] = "Italy",
+                }, -- end of [12]
+                [13] = 
+                {
+                    ["id"] = 12,
+                    ["name"] = "Norway",
+                }, -- end of [13]
+                [14] = 
+                {
+                    ["id"] = 73,
+                    ["name"] = "Oman",
+                }, -- end of [14]
+                [15] = 
+                {
+                    ["id"] = 40,
+                    ["name"] = "Poland",
+                }, -- end of [15]
+                [16] = 
+                {
+                    ["id"] = 72,
+                    ["name"] = "Qatar",
+                }, -- end of [16]
+                [17] = 
+                {
+                    ["id"] = 45,
+                    ["name"] = "South Korea",
+                }, -- end of [17]
+                [18] = 
+                {
+                    ["id"] = 9,
+                    ["name"] = "Spain",
+                }, -- end of [18]
+                [19] = 
+                {
+                    ["id"] = 46,
+                    ["name"] = "Sweden",
+                }, -- end of [19]
+                [20] = 
+                {
+                    ["id"] = 10,
+                    ["name"] = "The Netherlands",
+                }, -- end of [20]
+                [21] = 
+                {
+                    ["id"] = 3,
+                    ["name"] = "Turkey",
+                }, -- end of [21]
+                [22] = 
+                {
+                    ["id"] = 4,
+                    ["name"] = "UK",
+                }, -- end of [22]
+                [23] = 
+                {
+                    ["id"] = 1,
+                    ["name"] = "Ukraine",
+                }, -- end of [23]
+                [24] = 
+                {
+                    ["id"] = 74,
+                    ["name"] = "United Arab Emirates",
+                }, -- end of [24]
+                [25] = 
+                {
+                    ["id"] = 2,
+                    ["name"] = "USA",
+                }, -- end of [25]
+            }, -- end of ["country"]
+        }, -- end of ["blue"]
+        ["red"] = 
+        {
+            ["name"] = "red",
+            ["country"] = 
+            {
+                [1] = 
+                {
+                    ["id"] = 18,
+                    ["name"] = "Abkhazia",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["id"] = 24,
+                    ["name"] = "Belarus",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["id"] = 27,
+                    ["name"] = "China",
+                }, -- end of [3]
+                [4] = 
+                {
+                    ["id"] = 34,
+                    ["static"] = 
+                    {
+                        ["group"] = 
+                        {
+                            [1] = 
+                            {
+                                ["heading"] = 1.5707963267949,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = 719.77498756449,
+                                            ["speed"] = 0,
+                                            ["x"] = 3554.8055791783,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 54073,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Heliports",
+                                        ["shape_name"] = "FARPS",
+                                        ["type"] = "FARP",
+                                        ["unitId"] = 174871,
+                                        ["y"] = 719.77498756449,
+                                        ["x"] = 3554.8055791783,
+                                        ["name"] = "DictKey_GroupName_142",
+                                        ["heliport_callsign_id"] = 2,
+                                        ["heading"] = 1.5707963267949,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = 719.77498756449,
+                                ["x"] = 3554.8055791783,
+                                ["name"] = "DictKey_GroupName_142",
+                                ["linkOffset"] = false,
+                                ["dead"] = false,
+                            }, -- end of [1]
+                            [2] = 
+                            {
+                                ["heading"] = 1.5707963267949,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = 433.43431192307,
+                                            ["speed"] = 0,
+                                            ["x"] = 3418.4859142792,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 54074,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Heliports",
+                                        ["shape_name"] = "FARPS",
+                                        ["type"] = "FARP",
+                                        ["unitId"] = 174872,
+                                        ["y"] = 433.43431192307,
+                                        ["x"] = 3418.4859142792,
+                                        ["name"] = "DictKey_GroupName_145",
+                                        ["heliport_callsign_id"] = 2,
+                                        ["heading"] = 1.5707963267949,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = 433.43431192307,
+                                ["x"] = 3418.4859142792,
+                                ["name"] = "DictKey_GroupName_145",
+                                ["linkOffset"] = false,
+                                ["dead"] = false,
+                            }, -- end of [2]
+                            [3] = 
+                            {
+                                ["heading"] = 1.9896753472735,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -94661.887538709,
+                                            ["speed"] = 0,
+                                            ["x"] = 10067.889228919,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 54076,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Heliports",
+                                        ["shape_name"] = "FARPS",
+                                        ["type"] = "FARP",
+                                        ["unitId"] = 174881,
+                                        ["y"] = -94661.887538709,
+                                        ["x"] = 10067.889228919,
+                                        ["name"] = "DictKey_GroupName_148",
+                                        ["heliport_callsign_id"] = 4,
+                                        ["heading"] = 1.9896753472735,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -94661.887538709,
+                                ["x"] = 10067.889228919,
+                                ["name"] = "DictKey_GroupName_148",
+                                ["linkOffset"] = false,
+                                ["dead"] = false,
+                            }, -- end of [3]
+                            [4] = 
+                            {
+                                ["heading"] = 1.9896753472735,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -94450.95475918,
+                                            ["speed"] = 0,
+                                            ["x"] = 9888.5499053546,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 54078,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Heliports",
+                                        ["shape_name"] = "FARPS",
+                                        ["type"] = "FARP",
+                                        ["unitId"] = 174890,
+                                        ["y"] = -94450.95475918,
+                                        ["x"] = 9888.5499053546,
+                                        ["name"] = "DictKey_GroupName_151",
+                                        ["heliport_callsign_id"] = 4,
+                                        ["heading"] = 1.9896753472735,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -94450.95475918,
+                                ["x"] = 9888.5499053546,
+                                ["name"] = "DictKey_GroupName_151",
+                                ["linkOffset"] = false,
+                                ["dead"] = false,
+                            }, -- end of [4]
+                        }, -- end of ["group"]
+                    }, -- end of ["static"]
+                    ["name"] = "Iran",
+                }, -- end of [4]
+                [5] = 
+                {
+                    ["id"] = 37,
+                    ["name"] = "Kazakhstan",
+                }, -- end of [5]
+                [6] = 
+                {
+                    ["id"] = 38,
+                    ["name"] = "North Korea",
+                }, -- end of [6]
+                [7] = 
+                {
+                    ["id"] = 0,
+                    ["vehicle"] = 
+                    {
+                        ["group"] = 
+                        {
+                            [1] = 
+                            {
+                                ["visible"] = false,
+                                ["tasks"] = 
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["task"] = "Ground Nothing",
+                                ["taskSelected"] = true,
+                                ["route"] = 
+                                {
+                                    ["spans"] = 
+                                    {
+                                    }, -- end of ["spans"]
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 2,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 0,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = 447.93814308117,
+                                            ["x"] = 3458.6571553907,
+                                            ["name"] = "DictKey_WptName_131",
+                                            ["ETA_locked"] = true,
+                                            ["speed"] = 5.5555555555556,
+                                            ["action"] = "Off Road",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 54075,
+                                ["hidden"] = false,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["type"] = "SKP-11",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 174873,
+                                        ["skill"] = "Average",
+                                        ["AddPropVehicle"] = 
+                                        {
+                                            ["Variant"] = 4,
+                                        }, -- end of ["AddPropVehicle"]
+                                        ["y"] = 447.93814308117,
+                                        ["x"] = 3458.6571553907,
+                                        ["name"] = "DictKey_UnitName_130",
+                                        ["heading"] = 0,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [1]
+                                    [2] = 
+                                    {
+                                        ["type"] = "SKP-11",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 174874,
+                                        ["skill"] = "Average",
+                                        ["y"] = 738.03259854613,
+                                        ["x"] = 3564.7985977409,
+                                        ["name"] = "DictKey_UnitName_129",
+                                        ["heading"] = 0,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [2]
+                                    [3] = 
+                                    {
+                                        ["type"] = "ATZ-10",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 174875,
+                                        ["skill"] = "Average",
+                                        ["y"] = 405.32550344145,
+                                        ["x"] = 3354.1728306342,
+                                        ["name"] = "DictKey_UnitName_128",
+                                        ["heading"] = 5.3058009260628,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [3]
+                                    [4] = 
+                                    {
+                                        ["type"] = "ATZ-10",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 174876,
+                                        ["skill"] = "Average",
+                                        ["y"] = 691.57360057249,
+                                        ["x"] = 3492.2018941772,
+                                        ["name"] = "DictKey_UnitName_127",
+                                        ["heading"] = 5.4454272662223,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [4]
+                                    [5] = 
+                                    {
+                                        ["type"] = "Ural-375",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 174877,
+                                        ["skill"] = "Average",
+                                        ["y"] = 420.71349358254,
+                                        ["x"] = 3355.8451261009,
+                                        ["name"] = "DictKey_UnitName_126",
+                                        ["heading"] = 0.5235987755983,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [5]
+                                    [6] = 
+                                    {
+                                        ["type"] = "Ural-375",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 174878,
+                                        ["skill"] = "Average",
+                                        ["y"] = 690.41249192763,
+                                        ["x"] = 3509.6555324896,
+                                        ["name"] = "DictKey_UnitName_125",
+                                        ["heading"] = 1.0646508437165,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [6]
+                                    [7] = 
+                                    {
+                                        ["type"] = "Ural-4320 APA-5D",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 174879,
+                                        ["skill"] = "Average",
+                                        ["y"] = 412.30584585797,
+                                        ["x"] = 3373.6239402915,
+                                        ["name"] = "DictKey_UnitName_124",
+                                        ["heading"] = 1.0646508437165,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [7]
+                                    [8] = 
+                                    {
+                                        ["type"] = "Ural-4320 APA-5D",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 174880,
+                                        ["skill"] = "Average",
+                                        ["y"] = 709.39148724183,
+                                        ["x"] = 3493.4910374554,
+                                        ["name"] = "DictKey_UnitName_123",
+                                        ["heading"] = 1.0646508437165,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [8]
+                                }, -- end of ["units"]
+                                ["y"] = 447.93814308117,
+                                ["x"] = 3458.6571553907,
+                                ["name"] = "DictKey_GroupName_122",
+                                ["start_time"] = 0,
+                            }, -- end of [1]
+                            [2] = 
+                            {
+                                ["visible"] = false,
+                                ["tasks"] = 
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["task"] = "Ground Nothing",
+                                ["taskSelected"] = true,
+                                ["route"] = 
+                                {
+                                    ["spans"] = 
+                                    {
+                                    }, -- end of ["spans"]
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 2,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 0,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = -94670.250512346,
+                                            ["x"] = 10118.067070745,
+                                            ["name"] = "DictKey_WptName_141",
+                                            ["ETA_locked"] = true,
+                                            ["speed"] = 5.5555555555556,
+                                            ["action"] = "Off Road",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 54077,
+                                ["hidden"] = false,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["type"] = "SKP-11",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 174882,
+                                        ["skill"] = "Average",
+                                        ["AddPropVehicle"] = 
+                                        {
+                                            ["Variant"] = 4,
+                                        }, -- end of ["AddPropVehicle"]
+                                        ["y"] = -94670.250512346,
+                                        ["x"] = 10118.067070745,
+                                        ["name"] = "DictKey_UnitName_140",
+                                        ["heading"] = 0,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [1]
+                                    [2] = 
+                                    {
+                                        ["type"] = "SKP-11",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 174883,
+                                        ["skill"] = "Average",
+                                        ["y"] = -94463.080051969,
+                                        ["x"] = 9929.6766630298,
+                                        ["name"] = "DictKey_UnitName_139",
+                                        ["heading"] = 0,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [2]
+                                    [3] = 
+                                    {
+                                        ["type"] = "ATZ-10",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 174884,
+                                        ["skill"] = "Average",
+                                        ["y"] = -94712.863151986,
+                                        ["x"] = 10013.582745988,
+                                        ["name"] = "DictKey_UnitName_138",
+                                        ["heading"] = 5.3058009260628,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [3]
+                                    [4] = 
+                                    {
+                                        ["type"] = "ATZ-10",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 174885,
+                                        ["skill"] = "Average",
+                                        ["y"] = -94442.422858121,
+                                        ["x"] = 9866.7006749842,
+                                        ["name"] = "DictKey_UnitName_137",
+                                        ["heading"] = 5.4454272662223,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [4]
+                                    [5] = 
+                                    {
+                                        ["type"] = "Ural-375",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 174886,
+                                        ["skill"] = "Average",
+                                        ["y"] = -94697.475161845,
+                                        ["x"] = 10015.255041455,
+                                        ["name"] = "DictKey_UnitName_136",
+                                        ["heading"] = 0.5235987755983,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [5]
+                                    [6] = 
+                                    {
+                                        ["type"] = "Ural-375",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 174887,
+                                        ["skill"] = "Average",
+                                        ["y"] = -94432.36138149,
+                                        ["x"] = 9859.6965652925,
+                                        ["name"] = "DictKey_UnitName_135",
+                                        ["heading"] = 1.0646508437165,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [6]
+                                    [7] = 
+                                    {
+                                        ["type"] = "Ural-4320 APA-5D",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 174888,
+                                        ["skill"] = "Average",
+                                        ["y"] = -94705.88280957,
+                                        ["x"] = 10033.033855646,
+                                        ["name"] = "DictKey_UnitName_134",
+                                        ["heading"] = 1.0646508437165,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [7]
+                                    [8] = 
+                                    {
+                                        ["type"] = "Ural-4320 APA-5D",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 174889,
+                                        ["skill"] = "Average",
+                                        ["y"] = -94431.574214866,
+                                        ["x"] = 9873.946448246,
+                                        ["name"] = "DictKey_UnitName_133",
+                                        ["heading"] = 1.0646508437165,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [8]
+                                }, -- end of ["units"]
+                                ["y"] = -94670.250512346,
+                                ["x"] = 10118.067070745,
+                                ["name"] = "DictKey_GroupName_132",
+                                ["start_time"] = 0,
+                            }, -- end of [2]
+                        }, -- end of ["group"]
+                    }, -- end of ["vehicle"]
+                    ["name"] = "Russia",
+                }, -- end of [7]
+                [8] = 
+                {
+                    ["id"] = 43,
+                    ["name"] = "Serbia",
+                }, -- end of [8]
+                [9] = 
+                {
+                    ["id"] = 19,
+                    ["name"] = "South Ossetia",
+                }, -- end of [9]
+                [10] = 
+                {
+                    ["id"] = 47,
+                    ["name"] = "Syria",
+                }, -- end of [10]
+                [11] = 
+                {
+                    ["id"] = 7,
+                    ["name"] = "USAF Aggressors",
+                }, -- end of [11]
+            }, -- end of ["country"]
+        }, -- end of ["red"]
+    }, -- end of ["coalition"]
+    ["name"] = "OEO Red FARPS",
+    ["requiredModules"] = 
+    {
+    }, -- end of ["requiredModules"]
+    ["localization"] = 
+    {
+        ["DEFAULT"] = 
+        {
+            ["DictKey_UnitName_72"] = "New Static Object #008",
+            ["DictKey_GroupName_23"] = "FARP London Support",
+            ["DictKey_UnitName_135"] = "Unit #310",
+            ["DictKey_GroupName_132"] = "Greater Tunb Airbase Defence #003",
+            ["DictKey_GroupName_65"] = "New Static Object #006",
+            ["DictKey_WptName_76"] = "",
+            ["DictKey_GroupName_77"] = "New Static Object #010",
+            ["DictKey_UnitName_152"] = "New Static Object #028",
+            ["DictKey_WptName_22"] = "",
+            ["DictKey_UnitName_39"] = "Unit #279",
+            ["DictKey_UnitName_7"] = "Unit #292",
+            ["DictKey_WptName_70"] = "",
+            ["DictKey_UnitName_12"] = "Unit #250",
+            ["DictKey_GroupName_113"] = "New Static Object #022",
+            ["DictKey_UnitName_102"] = "New Static Object #018",
+            ["DictKey_UnitName_108"] = "New Static Object #020",
+            ["DictKey_UnitName_90"] = "New Static Object #014",
+            ["DictKey_sortie_5"] = "",
+            ["DictKey_GroupName_10"] = "FARP London Defence",
+            ["DictKey_GroupName_151"] = "New Static Object #028",
+            ["DictKey_UnitName_123"] = "Unit #304",
+            ["DictKey_UnitName_136"] = "Unit #309",
+            ["DictKey_UnitName_36"] = "Unit #282",
+            ["DictKey_WptName_109"] = "",
+            ["DictKey_UnitName_66"] = "New Static Object #006",
+            ["DictKey_WptName_147"] = "",
+            ["DictKey_UnitName_138"] = "Unit #307",
+            ["DictKey_UnitName_130"] = "Unit #297",
+            ["DictKey_UnitName_43"] = "Unit #275",
+            ["DictKey_UnitName_125"] = "Unit #302",
+            ["DictKey_WptName_144"] = "",
+            ["DictKey_WptName_85"] = "",
+            ["DictKey_WptName_153"] = "",
+            ["DictKey_WptName_91"] = "",
+            ["DictKey_GroupName_119"] = "New Static Object #024",
+            ["DictKey_GroupName_86"] = "New Static Object #013",
+            ["DictKey_descriptionRedTask_2"] = "",
+            ["DictKey_WptName_55"] = "",
+            ["DictKey_UnitName_38"] = "Unit #280",
+            ["DictKey_UnitName_57"] = "New Static Object #004",
+            ["DictKey_UnitName_31"] = "Unit #287",
+            ["DictKey_UnitName_111"] = "New Static Object #021",
+            ["DictKey_UnitName_35"] = "Unit #283",
+            ["DictKey_UnitName_137"] = "Unit #308",
+            ["DictKey_GroupName_53"] = "New Static Object #003",
+            ["DictKey_UnitName_105"] = "New Static Object #019",
+            ["DictKey_UnitName_27"] = "Unit #293",
+            ["DictKey_GroupName_95"] = "New Static Object #016",
+            ["DictKey_UnitName_149"] = "New Static Object #027",
+            ["DictKey_WptName_103"] = "",
+            ["DictKey_UnitName_133"] = "Unit #312",
+            ["DictKey_UnitName_15"] = "Unit #247",
+            ["DictKey_UnitName_93"] = "New Static Object #015",
+            ["DictKey_UnitName_117"] = "New Static Object #023",
+            ["DictKey_UnitName_40"] = "Unit #278",
+            ["DictKey_UnitName_81"] = "New Static Object #011",
+            ["DictKey_UnitName_127"] = "Unit #300",
+            ["DictKey_UnitName_114"] = "New Static Object #022",
+            ["DictKey_WptName_9"] = "",
+            ["DictKey_UnitName_11"] = "Unit #251",
+            ["DictKey_descriptionNeutralsTask_4"] = "",
+            ["DictKey_UnitName_30"] = "Unit #288",
+            ["DictKey_UnitName_84"] = "New Static Object #012",
+            ["DictKey_GroupName_89"] = "New Static Object #014",
+            ["DictKey_GroupName_83"] = "New Static Object #012",
+            ["DictKey_UnitName_60"] = "New Static Object #005",
+            ["DictKey_WptName_58"] = "",
+            ["DictKey_WptName_52"] = "",
+            ["DictKey_UnitName_19"] = "Unit #226",
+            ["DictKey_GroupName_142"] = "New Static Object #025",
+            ["DictKey_WptName_94"] = "",
+            ["DictKey_WptName_97"] = "",
+            ["DictKey_GroupName_68"] = "New Static Object #007",
+            ["DictKey_UnitName_32"] = "Unit #286",
+            ["DictKey_UnitName_29"] = "Unit #289",
+            ["DictKey_UnitName_128"] = "Unit #299",
+            ["DictKey_GroupName_71"] = "New Static Object #008",
+            ["DictKey_UnitName_45"] = "Unit #255",
+            ["DictKey_WptName_115"] = "",
+            ["DictKey_UnitName_126"] = "Unit #301",
+            ["DictKey_UnitName_42"] = "Unit #276",
+            ["DictKey_GroupName_62"] = "New Static Object #001",
+            ["DictKey_UnitName_44"] = "Unit #256",
+            ["DictKey_UnitName_28"] = "Unit #290",
+            ["DictKey_WptName_64"] = "",
+            ["DictKey_WptName_106"] = "",
+            ["DictKey_UnitName_75"] = "New Static Object #009",
+            ["DictKey_UnitName_54"] = "New Static Object #003",
+            ["DictKey_UnitName_34"] = "Unit #284",
+            ["DictKey_GroupName_107"] = "New Static Object #020",
+            ["DictKey_GroupName_101"] = "New Static Object #018",
+            ["DictKey_WptName_79"] = "",
+            ["DictKey_UnitName_13"] = "Unit #249",
+            ["DictKey_WptName_82"] = "",
+            ["DictKey_GroupName_104"] = "New Static Object #019",
+            ["DictKey_UnitName_124"] = "Unit #303",
+            ["DictKey_UnitName_33"] = "Unit #285",
+            ["DictKey_GroupName_74"] = "New Static Object #009",
+            ["DictKey_UnitName_143"] = "New Static Object #025",
+            ["DictKey_GroupName_145"] = "New Static Object #026",
+            ["DictKey_UnitName_46"] = "Unit #254",
+            ["DictKey_UnitName_63"] = "New Static Object #001",
+            ["DictKey_UnitName_78"] = "New Static Object #010",
+            ["DictKey_GroupName_50"] = "New Static Object #002",
+            ["DictKey_UnitName_21"] = "Unit #224",
+            ["DictKey_UnitName_51"] = "New Static Object #002",
+            ["DictKey_WptName_88"] = "",
+            ["DictKey_descriptionText_1"] = "",
+            ["DictKey_WptName_112"] = "",
+            ["DictKey_UnitName_139"] = "Unit #306",
+            ["DictKey_GroupName_122"] = "Greater Tunb Airbase Defence #002",
+            ["DictKey_GroupName_98"] = "New Static Object #017",
+            ["DictKey_GroupName_92"] = "New Static Object #015",
+            ["DictKey_UnitName_99"] = "New Static Object #017",
+            ["DictKey_GroupName_80"] = "New Static Object #011",
+            ["DictKey_UnitName_14"] = "Unit #248",
+            ["DictKey_GroupName_56"] = "New Static Object #004",
+            ["DictKey_UnitName_16"] = "Unit #246",
+            ["DictKey_UnitName_26"] = "Unit #294",
+            ["DictKey_WptName_131"] = "",
+            ["DictKey_WptName_49"] = "",
+            ["DictKey_UnitName_24"] = "Unit #296",
+            ["DictKey_GroupName_6"] = "FARP London Support #001",
+            ["DictKey_UnitName_18"] = "Unit #227",
+            ["DictKey_GroupName_110"] = "New Static Object #021",
+            ["DictKey_UnitName_17"] = "Unit #229",
+            ["DictKey_UnitName_41"] = "Unit #277",
+            ["DictKey_GroupName_116"] = "New Static Object #023",
+            ["DictKey_UnitName_87"] = "New Static Object #013",
+            ["DictKey_WptName_150"] = "",
+            ["DictKey_UnitName_20"] = "Unit #225",
+            ["DictKey_UnitName_25"] = "Unit #295",
+            ["DictKey_UnitName_120"] = "New Static Object #024",
+            ["DictKey_UnitName_48"] = "Unit #252",
+            ["DictKey_WptName_67"] = "",
+            ["DictKey_UnitName_47"] = "Unit #253",
+            ["DictKey_UnitName_37"] = "Unit #281",
+            ["DictKey_WptName_118"] = "",
+            ["DictKey_WptName_73"] = "",
+            ["DictKey_WptName_121"] = "",
+            ["DictKey_UnitName_129"] = "Unit #298",
+            ["DictKey_descriptionBlueTask_3"] = "",
+            ["DictKey_UnitName_146"] = "New Static Object #026",
+            ["DictKey_WptName_100"] = "",
+            ["DictKey_GroupName_59"] = "New Static Object #005",
+            ["DictKey_UnitName_96"] = "New Static Object #016",
+            ["DictKey_GroupName_148"] = "New Static Object #027",
+            ["DictKey_WptName_61"] = "",
+            ["DictKey_UnitName_134"] = "Unit #311",
+            ["DictKey_UnitName_69"] = "New Static Object #007",
+            ["DictKey_WptName_141"] = "",
+            ["DictKey_UnitName_140"] = "Unit #305",
+            ["DictKey_UnitName_8"] = "Unit #291",
+        }, -- end of ["DEFAULT"]
+    }, -- end of ["localization"]
+    ["theatre"] = "PersianGulf",
+    ["desc"] = "",
+} -- end of staticTemplate
