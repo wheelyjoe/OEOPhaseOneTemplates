@@ -9,8 +9,8 @@ metadata = {
         },
     },
     ["objtype"] = "ammodump",
-    ["region"]  = "some-region",
-    ["init"]    = "always|atleastone|random",
+    ["region"]  = "keepout-region",
+    ["init"]    = "always",
     ["respawn"] = {
         ["type"]  = "timed|land|death",
         ["limit"] = 3,
