@@ -1,6 +1,6 @@
 metadata = {
     ["class"] = "base",
-    ["type"]  = "airbase",
+    ["type"]  = "farp",
     ["spawn"] = {
         ["owner"] = true,
     },
