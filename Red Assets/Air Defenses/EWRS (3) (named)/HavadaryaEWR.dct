@@ -1,6 +1,6 @@
 metadata = {
 	["class"]  = "airdefense",
-	["type"]   = "sam",
-	["region"] = "lengeh",
+	["type"]   = "ewr",
+	["region"] = "bandar abbas",
 	["side"]   = { ["red"] = true, },
 }
