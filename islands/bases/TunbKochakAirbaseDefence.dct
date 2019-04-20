@@ -1,7 +1,6 @@
 metadata = {
-    ["class"] = "base",
-    ["type"]  = "airbase",
-    ["spawn"] = {
-        ["owner"] = true,
-    },
+	["class"] = "base",
+	["type"]  = "airbase",
+	["region"] = "islands",
+	["side"]  = { ["red"] = true, ["blue"] = true, },
 }

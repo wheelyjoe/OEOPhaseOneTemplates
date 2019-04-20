@@ -1,6 +1,6 @@
 metadata = {
-	["class"]  = "airdefense",
-	["type"]   = "sam",
+	["class"] = "airdefense",
+	["type"]  = "sam",
 	["region"] = "islands",
-	["side"]   = { ["red"] = true, },
+	["side"]  = { ["red"] = true, },
 }

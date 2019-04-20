@@ -1,6 +1,6 @@
 metadata = {
 	["class"] = "facility",
 	["type"]  = "ammodump",
-	["region"] = "??",
+	["region"] = "islands",
 	["side"]  = { ["red"] = true, },
 }
