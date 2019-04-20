@@ -1,5 +1,5 @@
 metadata = {
-	["class"]  = "keepout",
+	["class"] = "keepout",
 	["region"] = "jask",
-	["side"]   = { ["red"] = true, },
+	["side"]  = { ["red"] = true, },
 }

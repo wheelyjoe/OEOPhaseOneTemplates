@@ -1,6 +1,6 @@
 metadata = {
-	["class"] = "oca",
-	["type"]  = "",
-	["region"] = "??",
+	["class"] = "facility",
+	["type"]  = "oca",
+	["region"] = "jask",
 	["side"]  = { ["red"] = true, },
 }
