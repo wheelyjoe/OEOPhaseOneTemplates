@@ -1,0 +1,5 @@
+metadata = {
+	["class"]  = "keepout",
+	["region"] = "bandar abbas",
+	["side"]   = { ["red"] = true, },
+}

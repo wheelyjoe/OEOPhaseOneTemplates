@@ -1,0 +1,6 @@
+metadata = {
+	["class"]  = "convoy",
+	["type"]   = "armor",
+	["region"] = "lengeh",
+	["side"]   = { ["red"] = true, },
+}

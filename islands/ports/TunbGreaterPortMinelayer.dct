@@ -1,0 +1,6 @@
+metadata = {
+	["class"] = "facility",
+	["type"]  = "port",
+	["region"] = "islands",
+	["side"]  = { ["red"] = true, },
+}

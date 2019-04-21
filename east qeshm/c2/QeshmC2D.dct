@@ -1,0 +1,6 @@
+metadata = {
+	["class"]  = "facility",
+	["type"]   = "c2",
+	["region"] = "east qeshm",
+	["side"]   = { ["red"] = true, },
+}
