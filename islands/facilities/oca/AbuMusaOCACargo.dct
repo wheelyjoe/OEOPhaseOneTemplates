@@ -1,6 +1,6 @@
 metadata = {
 	["class"] = "facility",
-	["type"]  = "oca",
+	["objtype"]  = "oca",
 	["region"] = "islands",
 	["side"]  = { ["red"] = true, },
 }
