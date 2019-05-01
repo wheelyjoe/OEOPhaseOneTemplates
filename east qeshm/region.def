@@ -1,3 +1,9 @@
 region = {
 	name = "east qeshm",
+	["limits"] = {
+		["ammodump"] = {
+			["min"] = 2,
+			["max"] = 3,
+		},
+	},
 }

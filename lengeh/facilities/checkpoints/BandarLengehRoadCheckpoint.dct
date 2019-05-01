@@ -1,6 +1,6 @@
 metadata = {
 	["class"]  = "facility",
-	["type"]   = "checkpoint",
+	["objtype"]   = "checkpoint",
 	["region"] = "lengeh",
 	["side"]   = { ["red"] = true, },
 }

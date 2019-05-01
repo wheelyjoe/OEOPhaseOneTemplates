@@ -1,3 +1,9 @@
 region = {
 	name = "islands",
+	["limits"] = {
+		["ammodump"] = {
+			["min"] = 2,
+			["max"] = 3,
+		},
+	},
 }

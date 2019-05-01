@@ -1,6 +1,6 @@
 metadata = {
 	["class"]  = "base",
-	["type"]   = "farp",
+	["objtype"]   = "farp",
 	["region"] = "khasab",
 	["side"]   = { ["red"] = true, },
 }
