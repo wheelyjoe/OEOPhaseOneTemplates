@@ -1,9 +1,81 @@
 region = {
 	name = "jask",
 	["limits"] = {
+		["airbase"] = {
+			["min"] = 1,
+			["max"] = 1,
+		},
 		["ammodump"] = {
-			["min"] = 2,
+			["min"] = 0,
+			["max"] = 1,
+		},
+		["armor"] = {
+			["min"] = 0,
+			["max"] = 2,
+		},
+		["bunker"] = {
+			["min"] = 0,
+			["max"] = 0,
+		},
+		["c2"] = {
+			["min"] = 0,
+			["max"] = 1,
+		},
+		["checkpoint"] = {
+			["min"] = 0,
+			["max"] = 0,
+		},
+		["depot"] = {
+			["min"] = 0,
+			["max"] = 0,
+		},
+		["ewr"] = {
+			["min"] = 0,
+			["max"] = 1,
+		},
+		["factory"] = {
+			["min"] = 0,
+			["max"] = 1,
+		},
+		["farp"] = {
+			["min"] = 0,
+			["max"] = 0,
+		},
+		["fueldump"] = {
+			["min"] = 0,
+			["max"] = 1,
+		},
+		["missile"] = {
+			["min"] = 1,
+			["max"] = 1,
+		},
+		["oca"] = {
+			["min"] = 1,
 			["max"] = 3,
+		},
+		["port"] = {
+			["min"] = 0,
+			["max"] = 2,
+		},
+		["sam"] = {
+			["min"] = 1,
+			["max"] = 1,
+		},
+		["sea"] = {
+			["min"] = 0,
+			["max"] = 2,
+		},
+		["supply"] = {
+			["min"] = 0,
+			["max"] = 2,
+		},
+		["warehouse"] = {
+			["min"] = 0,
+			["max"] = 0,
+		},
+		["keepout"] = {
+			["min"] = 0,
+			["max"] = 0,
 		},
 	},
 }

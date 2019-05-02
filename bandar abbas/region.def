@@ -1,7 +1,79 @@
 region = {
 	name = "bandar abbas",
 	["limits"] = {
+		["airbase"] = {
+			["min"] = 2,
+			["max"] = 2,
+		},
 		["ammodump"] = {
+			["min"] = 2,
+			["max"] = 3,
+		},
+		["armor"] = {
+			["min"] = 0,
+			["max"] = 0,
+		},
+		["bunker"] = {
+			["min"] = 0,
+			["max"] = 0,
+		},
+		["c2"] = {
+			["min"] = 0,
+			["max"] = 0,
+		},
+		["checkpoint"] = {
+			["min"] = 0,
+			["max"] = 0,
+		},
+		["depot"] = {
+			["min"] = 0,
+			["max"] = 0,
+		},
+		["ewr"] = {
+			["min"] = 1,
+			["max"] = 1,
+		},
+		["factory"] = {
+			["min"] = 0,
+			["max"] = 0,
+		},
+		["farp"] = {
+			["min"] = 0,
+			["max"] = 0,
+		},
+		["fueldump"] = {
+			["min"] = 0,
+			["max"] = 0,
+		},
+		["missile"] = {
+			["min"] = 0,
+			["max"] = 0,
+		},
+		["oca"] = {
+			["min"] = 0,
+			["max"] = 0,
+		},
+		["port"] = {
+			["min"] = 0,
+			["max"] = 0,
+		},
+		["sam"] = {
+			["min"] = 2,
+			["max"] = 2,
+		},
+		["sea"] = {
+			["min"] = 0,
+			["max"] = 3,
+		},
+		["supply"] = {
+			["min"] = 2,
+			["max"] = 3,
+		},
+		["warehouse"] = {
+			["min"] = 2,
+			["max"] = 3,
+		},
+		["keepout"] = {
 			["min"] = 2,
 			["max"] = 3,
 		},
