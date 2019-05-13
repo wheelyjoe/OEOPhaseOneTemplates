@@ -1,5 +1,5 @@
 metadata = {
-	["class"]  = "facility",
+	["class"]  = "strike",
 	["objtype"]   = "port",
 	["region"] = "khasab",
 	["side"]   = { ["red"] = true, },

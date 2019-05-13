@@ -1,6 +1,5 @@
 metadata = {
-	["class"] = "facility",
-	["objtype"]  = "port",
-	["region"] = "islands",
-	["side"]  = { ["red"] = true, },
+	["class"] = "strike",
+	["objtype"] = "port",
+	["exclusion"] = "tunb kochak port",
 }

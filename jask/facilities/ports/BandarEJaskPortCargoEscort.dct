@@ -1,6 +1,5 @@
 metadata = {
-	["class"] = "facility",
-	["objtype"]  = "port",
-	["region"] = "jask",
-	["side"]  = { ["red"] = true, },
+	["class"] = "strike",
+	["objtype"] = "port",
+	["exclusion"] = "bandar e-jask port",
 }

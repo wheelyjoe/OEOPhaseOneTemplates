@@ -1,6 +1,6 @@
 metadata = {
-	["class"]  = "facility",
-	["objtype"]   = "c2",
+	["class"]  = "strike",
+	["objtype"]   = "missile",
 	["region"] = "east qeshm",
 	["side"]   = { ["red"] = true, },
 }
