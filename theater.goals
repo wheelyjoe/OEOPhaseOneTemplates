@@ -1,4 +1,13 @@
 theatergoals = {
-  ["bluewin"] = { ["primary"] = 100, ["secondary"] = 50, ["attritionrate"] = 0, },
-  ["redwin"] = { ["primary"] = 0, ["secondary"] = 0,  ["attritionrate"] = 2, },
+	["bluewin"] = {
+		["primary"]       = 100,
+		["secondary"]     = 50,
+		["attritionrate"] = 0,
+	},
+
+	["redwin"] = {
+		["primary"]       = 0,
+		["secondary"]     = 0,
+		["attritionrate"] = 2,
+	},
 }
