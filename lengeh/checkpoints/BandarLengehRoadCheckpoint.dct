@@ -1,0 +1,20 @@
+metadata = {
+	["rank"]  = 2,
+	["objtype"]   = "checkpoint",
+	["priority"] = 1,
+	["base"]   = nil,
+}
+
+--	Rank = whether the objective is primary or secondary within the region
+	objtype = what type of target the objective is
+	priority = only relevant to SAM sites, sets up order for sensible clearing of SAM objectives
+	base = only relevant to airbase defence templates, ties to particular airbase (must exactly match airbase name in DCS)
+	
+	
+--     ["respawn"] = {
+        ["type"]  = "timed|land|death",
+        ["limit"] = 3,
+        ["time"]  = 30,
+    },
+}--
+

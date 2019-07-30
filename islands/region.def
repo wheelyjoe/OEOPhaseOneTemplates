@@ -1,81 +1,70 @@
 region = {
-	name = "islands",
-	["limits"] = {
-		["airbase"] = {
-			["min"] = 4,
-			["max"] = 4,
-		},
-		["ammodump"] = {
-			["min"] = 2,
-			["max"] = 4,
-		},
-		["armor"] = {
-			["min"] = 0,
-			["max"] = 0,
-		},
-		["bunker"] = {
-			["min"] = 2,
-			["max"] = 3,
-		},
-		["c2"] = {
-			["min"] = 0,
-			["max"] = 0,
-		},
-		["checkpoint"] = {
-			["min"] = 0,
-			["max"] = 1,
-		},
-		["depot"] = {
-			["min"] = 0,
-			["max"] = 0,
-		},
-		["ewr"] = {
-			["min"] = 2,
-			["max"] = 3,
-		},
-		["factory"] = {
-			["min"] = 2,
-			["max"] = 3,
-		},
-		["farp"] = {
-			["min"] = 1,
-			["max"] = 1,
-		},
-		["fueldump"] = {
-			["min"] = 1,
-			["max"] = 4,
-		},
-		["missile"] = {
-			["min"] = 2,
-			["max"] = 3,
-		},
-		["oca"] = {
-			["min"] = 1,
-			["max"] = 4,
-		},
-		["port"] = {
-			["min"] = 3,
-			["max"] = 6,
-		},
-		["sam"] = {
-			["min"] = 2,
-			["max"] = 2,
-		},
-		["sea"] = {
-			["min"] = 0,
-			["max"] = 2,
-		},
-		["supply"] = {
-			["min"] = 2,
-			["max"] = 3,
-		},
-		["warehouse"] = {
-			["min"] = 2,
-			["max"] = 3,
-		},
-		["keepout"] = {
-			["min"] = 2,
-			["max"] = 3,
-		},
-	},
+    ["name"] = "islands",
+    ["sequence"] = 0
+    ["limits"] = {
+        ["ammodump"] = {
+            ["min"] = 1,
+            ["max"] = 1,
+                        },
+        ["airborne"] = {
+            ["min"] = 1,
+            ["max"] = 1,
+                        },
+        ["basedefence"] = {
+            ["min"] = 1,
+            ["max"] = 1,
+                        },
+        ["bunker"] = {
+            ["min"] = 1,
+            ["max"] = 1,
+                        },
+        ["checkpoint"] = {
+            ["min"] = 1,
+            ["max"] = 1,
+                        },
+        ["convoy-gnd"] = {
+            ["min"] = 1,
+            ["max"] = 1,
+                        },
+        ["convoy-sea"] = {
+            ["min"] = 1,
+            ["max"] = 1,
+                        },
+        ["c2"] = {
+            ["min"] = 1,
+            ["max"] = 1,
+                        },
+        ["ewr"] = {
+            ["min"] = 1,
+            ["max"] = 1,
+                        },
+        ["factory"] = {
+            ["min"] = 1,
+            ["max"] = 1,
+                        },
+        ["fueldump"] = {
+            ["min"] = 1,
+            ["max"] = 1,
+                        },
+        ["keepout"] = {
+            ["min"] = 1,
+            ["max"] = 1,
+                        },
+        ["missile"] = {
+            ["min"] = 1,
+            ["max"] = 1,
+                        },
+        ["oca"] = {
+            ["min"] = 1,
+            ["max"] = 1,
+                        },
+        ["port"] = {
+            ["min"] = 1,
+            ["max"] = 1,
+                        },
+        ["sam"] = {
+            ["min"] = 1,
+            ["max"] = 1,
+        },
+    },
 }

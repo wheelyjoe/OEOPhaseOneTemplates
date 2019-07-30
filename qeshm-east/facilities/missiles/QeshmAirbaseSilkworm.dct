@@ -1,6 +1,0 @@
-metadata = {
-	["class"]  = "strike",
-	["objtype"]   = "missile",
-	["region"] = "east qeshm",
-	["side"]   = { ["red"] = true, },
-}

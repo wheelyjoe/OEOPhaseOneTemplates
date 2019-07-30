@@ -1,0 +1,6 @@
+metadata = {
+	["class"]  = "airdefense",
+	["objtype"]   = "ewr",
+	["region"] = "lengeh",
+	["side"]   = { ["red"] = true, },
+}

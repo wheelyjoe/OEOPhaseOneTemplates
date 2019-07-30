@@ -1,0 +1,6 @@
+metadata = {
+	["class"]  = "facility",
+	["objtype"]   = "oca",
+	["region"] = "khasab",
+	["side"]   = { ["red"] = true, },
+}

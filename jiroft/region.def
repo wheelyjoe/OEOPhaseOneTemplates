@@ -1,6 +1,6 @@
 region = {
-    ["name"] = "jask",
-    ["sequence"] = 0
+    ["name"] = "jiroft",
+    ["sequence"] = 2
     ["limits"] = {
         ["ammodump"] = {
             ["min"] = 1,
