@@ -1,6 +1,6 @@
 metadata = {
-	["class"]  = "airdefense",
-	["objtype"]   = "ewr",
-	["region"] = "bandar abbas",
-	["side"]   = { ["red"] = true, },
+	["rank"]     = 1,
+	["objtype"]  = "ewr",
+	["priority"] = 1,
+	["base"]     = nil,
 }

@@ -1,6 +1,6 @@
 metadata = {
-	["class"]  = "facility",
-	["objtype"]   = "oca",
-	["region"] = "east qeshm",
-	["side"]   = { ["red"] = true, },
+	["rank"]     = 2,
+	["objtype"]  = "oca",
+	["priority"] = 1,
+	["base"]     = nil,
 }

@@ -1,6 +1,6 @@
 metadata = {
-	["class"]  = "keepout",
-	["objtype"] = "keepout",
-	["region"] = "bandar abbas",
-	["side"]   = { ["red"] = true, },
+	["rank"]     = 2,
+	["objtype"]  = "keepout",
+	["priority"] = 1,
+	["base"]     = nil,
 }

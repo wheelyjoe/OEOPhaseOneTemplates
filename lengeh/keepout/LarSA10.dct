@@ -1,6 +1,6 @@
 metadata = {
-	["class"]  = "keepout",
-	["objtype"] = "keepout",
-	["region"] = "lengeh",
-	["side"]   = { ["red"] = true, },
+	["rank"]     = 2,
+	["objtype"]  = "keepout",
+	["priority"] = 1,
+	["base"]     = nil,
 }

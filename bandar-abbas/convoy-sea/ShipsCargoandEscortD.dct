@@ -1,6 +1,6 @@
 metadata = {
-	["class"]  = "convoy",
-	["objtype"]   = "sea",
-	["region"] = "bandar abbas",
-	["side"]   = { ["red"] = true, },
+	["rank"]     = 2,
+	["objtype"]  = "ammodump",
+	["priority"] = 1,
+	["base"]     = nil,
 }

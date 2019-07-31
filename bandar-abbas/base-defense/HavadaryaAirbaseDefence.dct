@@ -1,6 +1,6 @@
 metadata = {
-	["class"]  = "base",
-	["objtype"]   = "airbase",
-	["region"] = "bandar abbas",
-	["side"]   = { ["red"] = true, },
+	["rank"]     = 2,
+	["objtype"]  = "basedefense",
+	["priority"] = 1,
+	["base"]     = "BASENAME",
 }

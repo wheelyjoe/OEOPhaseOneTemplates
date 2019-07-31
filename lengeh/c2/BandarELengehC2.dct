@@ -1,6 +1,6 @@
 metadata = {
-	["class"]  = "facility",
-	["objtype"]   = "c2",
-	["region"] = "lengeh",
-	["side"]   = { ["red"] = true, },
+	["rank"]     = 1,
+	["objtype"]  = "c2",
+	["priority"] = 1,
+	["base"]     = nil,
 }
