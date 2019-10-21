@@ -1,6 +1,6 @@
 region = {
     ["name"] = "bandar abbas",
-    ["sequence"] = 2
+    ["priority"] = 2,
     ["limits"] = {
         ["ammodump"] = {
             ["min"] = 1,
@@ -11,8 +11,8 @@ region = {
             ["max"] = 1,
         },
         ["basedefence"] = {
-            ["min"] = 1,
-            ["max"] = 1,
+            ["min"] = 2,
+            ["max"] = 2,
         },
         ["bunker"] = {
             ["min"] = 1,
@@ -63,8 +63,8 @@ region = {
             ["max"] = 1,
         },
         ["sam"] = {
-            ["min"] = 1,
-            ["max"] = 1,
+            ["min"] = 2,
+            ["max"] = 2,
         },
     },
 }
