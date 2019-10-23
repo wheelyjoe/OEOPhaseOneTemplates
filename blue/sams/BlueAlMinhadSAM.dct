@@ -1,6 +1,0 @@
-metadata = {
-	["rank"]     = 1,
-	["objtype"]  = "sam",
-	["priority"] = 1,
-	["base"]     = nil,
-}
