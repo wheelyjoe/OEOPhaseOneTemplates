@@ -1,0 +1,1808 @@
+staticTemplate = 
+{
+    ["coalition"] = 
+    {
+        ["blue"] = 
+        {
+            ["name"] = "blue",
+            ["country"] = 
+            {
+                [1] = 
+                {
+                    ["id"] = 21,
+                    ["name"] = "Australia",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["id"] = 11,
+                    ["name"] = "Belgium",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["id"] = 8,
+                    ["name"] = "Canada",
+                }, -- end of [3]
+                [4] = 
+                {
+                    ["id"] = 28,
+                    ["name"] = "Croatia",
+                }, -- end of [4]
+                [5] = 
+                {
+                    ["id"] = 26,
+                    ["name"] = "Czech Republic",
+                }, -- end of [5]
+                [6] = 
+                {
+                    ["id"] = 13,
+                    ["name"] = "Denmark",
+                }, -- end of [6]
+                [7] = 
+                {
+                    ["id"] = 5,
+                    ["name"] = "France",
+                }, -- end of [7]
+                [8] = 
+                {
+                    ["id"] = 16,
+                    ["name"] = "Georgia",
+                }, -- end of [8]
+                [9] = 
+                {
+                    ["id"] = 6,
+                    ["name"] = "Germany",
+                }, -- end of [9]
+                [10] = 
+                {
+                    ["id"] = 15,
+                    ["name"] = "Israel",
+                }, -- end of [10]
+                [11] = 
+                {
+                    ["id"] = 20,
+                    ["name"] = "Italy",
+                }, -- end of [11]
+                [12] = 
+                {
+                    ["id"] = 12,
+                    ["name"] = "Norway",
+                }, -- end of [12]
+                [13] = 
+                {
+                    ["id"] = 40,
+                    ["name"] = "Poland",
+                }, -- end of [13]
+                [14] = 
+                {
+                    ["id"] = 45,
+                    ["name"] = "South Korea",
+                }, -- end of [14]
+                [15] = 
+                {
+                    ["id"] = 9,
+                    ["name"] = "Spain",
+                }, -- end of [15]
+                [16] = 
+                {
+                    ["id"] = 46,
+                    ["name"] = "Sweden",
+                }, -- end of [16]
+                [17] = 
+                {
+                    ["id"] = 10,
+                    ["name"] = "The Netherlands",
+                }, -- end of [17]
+                [18] = 
+                {
+                    ["id"] = 3,
+                    ["name"] = "Turkey",
+                }, -- end of [18]
+                [19] = 
+                {
+                    ["id"] = 4,
+                    ["name"] = "UK",
+                }, -- end of [19]
+                [20] = 
+                {
+                    ["id"] = 1,
+                    ["name"] = "Ukraine",
+                }, -- end of [20]
+                [21] = 
+                {
+                    ["id"] = 2,
+                    ["name"] = "USA",
+                }, -- end of [21]
+            }, -- end of ["country"]
+        }, -- end of ["blue"]
+        ["red"] = 
+        {
+            ["name"] = "red",
+            ["country"] = 
+            {
+                [1] = 
+                {
+                    ["id"] = 18,
+                    ["name"] = "Abkhazia",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["id"] = 24,
+                    ["name"] = "Belarus",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["id"] = 27,
+                    ["name"] = "China",
+                }, -- end of [3]
+                [4] = 
+                {
+                    ["id"] = 34,
+                    ["vehicle"] = 
+                    {
+                        ["group"] = 
+                        {
+                            [1] = 
+                            {
+                                ["visible"] = false,
+                                ["tasks"] = 
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["task"] = "Ground Nothing",
+                                ["taskSelected"] = true,
+                                ["route"] = 
+                                {
+                                    ["spans"] = 
+                                    {
+                                    }, -- end of ["spans"]
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 10,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 0,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = -57648.623005078,
+                                            ["x"] = 65372.917224903,
+                                            ["name"] = "DictKey_WptName_662",
+                                            ["ETA_locked"] = true,
+                                            ["speed"] = 5.5555555555556,
+                                            ["action"] = "Off Road",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 1318047,
+                                ["hidden"] = false,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["type"] = "Igla manpad INS",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 4267971,
+                                        ["skill"] = "Average",
+                                        ["y"] = -57648.623005078,
+                                        ["x"] = 65372.917224903,
+                                        ["name"] = "DictKey_UnitName_637",
+                                        ["heading"] = 0,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [1]
+                                    [2] = 
+                                    {
+                                        ["type"] = "SNR_75V",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 4267972,
+                                        ["skill"] = "Average",
+                                        ["y"] = -57494.738725895,
+                                        ["x"] = 65263.288642353,
+                                        ["name"] = "DictKey_UnitName_638",
+                                        ["heading"] = 0,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [2]
+                                    [3] = 
+                                    {
+                                        ["type"] = "S_75M_Volhov",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 4267973,
+                                        ["skill"] = "Average",
+                                        ["y"] = -57666.233062914,
+                                        ["x"] = 65172.360579385,
+                                        ["name"] = "DictKey_UnitName_639",
+                                        ["heading"] = 3.8746309394274,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [3]
+                                    [4] = 
+                                    {
+                                        ["type"] = "S_75M_Volhov",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 4267974,
+                                        ["skill"] = "Average",
+                                        ["y"] = -57176.037198373,
+                                        ["x"] = 65489.395344311,
+                                        ["name"] = "DictKey_UnitName_640",
+                                        ["heading"] = 0.78539816339745,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [4]
+                                    [5] = 
+                                    {
+                                        ["type"] = "S_75M_Volhov",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 4267975,
+                                        ["skill"] = "Average",
+                                        ["y"] = -57100.034357494,
+                                        ["x"] = 65247.219480881,
+                                        ["name"] = "DictKey_UnitName_641",
+                                        ["heading"] = 3.1939525311496,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [5]
+                                    [6] = 
+                                    {
+                                        ["type"] = "S_75M_Volhov",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 4267976,
+                                        ["skill"] = "Average",
+                                        ["y"] = -57769.078832384,
+                                        ["x"] = 65371.502137164,
+                                        ["name"] = "DictKey_UnitName_642",
+                                        ["heading"] = 5.3756140961425,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [6]
+                                    [7] = 
+                                    {
+                                        ["type"] = "S_75M_Volhov",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 4267977,
+                                        ["skill"] = "Average",
+                                        ["y"] = -57511.381569133,
+                                        ["x"] = 65508.375703953,
+                                        ["name"] = "DictKey_UnitName_643",
+                                        ["heading"] = 0,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [7]
+                                    [8] = 
+                                    {
+                                        ["type"] = "S_75M_Volhov",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 4267978,
+                                        ["skill"] = "Average",
+                                        ["y"] = -57406.359738598,
+                                        ["x"] = 65200.324250274,
+                                        ["name"] = "DictKey_UnitName_644",
+                                        ["heading"] = 3.1241393610699,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [8]
+                                    [9] = 
+                                    {
+                                        ["type"] = "Land_Rover_101_FC",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 4267979,
+                                        ["skill"] = "Average",
+                                        ["AddPropVehicle"] = 
+                                        {
+                                            ["Variant"] = 4,
+                                        }, -- end of ["AddPropVehicle"]
+                                        ["y"] = -57346.266447691,
+                                        ["x"] = 65388.321201937,
+                                        ["name"] = "DictKey_UnitName_645",
+                                        ["heading"] = 5.235987755983,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [9]
+                                    [10] = 
+                                    {
+                                        ["type"] = "Land_Rover_101_FC",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 4267980,
+                                        ["skill"] = "Average",
+                                        ["AddPropVehicle"] = 
+                                        {
+                                            ["Variant"] = 4,
+                                        }, -- end of ["AddPropVehicle"]
+                                        ["y"] = -57348.25084889,
+                                        ["x"] = 65384.66127092,
+                                        ["name"] = "DictKey_UnitName_646",
+                                        ["heading"] = 5.3930673886625,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [10]
+                                    [11] = 
+                                    {
+                                        ["type"] = "Land_Rover_101_FC",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 4267981,
+                                        ["skill"] = "Average",
+                                        ["AddPropVehicle"] = 
+                                        {
+                                            ["Variant"] = 4,
+                                        }, -- end of ["AddPropVehicle"]
+                                        ["y"] = -57539.524495427,
+                                        ["x"] = 65349.006824165,
+                                        ["name"] = "DictKey_UnitName_647",
+                                        ["heading"] = 3.1764992386297,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [11]
+                                    [12] = 
+                                    {
+                                        ["type"] = "Land_Rover_109_S3",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 4267982,
+                                        ["skill"] = "Average",
+                                        ["AddPropVehicle"] = 
+                                        {
+                                            ["TentedRoof"] = true,
+                                        }, -- end of ["AddPropVehicle"]
+                                        ["y"] = -57350.801710144,
+                                        ["x"] = 65381.924667816,
+                                        ["name"] = "DictKey_UnitName_648",
+                                        ["heading"] = 5.4279739737024,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [12]
+                                    [13] = 
+                                    {
+                                        ["type"] = "Land_Rover_109_S3",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 4267983,
+                                        ["skill"] = "Average",
+                                        ["AddPropVehicle"] = 
+                                        {
+                                            ["TentedRoof"] = true,
+                                        }, -- end of ["AddPropVehicle"]
+                                        ["y"] = -57551.753066855,
+                                        ["x"] = 65348.921109879,
+                                        ["name"] = "DictKey_UnitName_649",
+                                        ["heading"] = 3.1066860685499,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [13]
+                                    [14] = 
+                                    {
+                                        ["type"] = "Land_Rover_109_S3",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 4267984,
+                                        ["skill"] = "Average",
+                                        ["AddPropVehicle"] = 
+                                        {
+                                            ["TentedRoof"] = true,
+                                        }, -- end of ["AddPropVehicle"]
+                                        ["y"] = -57547.953066855,
+                                        ["x"] = 65348.835395594,
+                                        ["name"] = "DictKey_UnitName_650",
+                                        ["heading"] = 3.1764992386297,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [14]
+                                    [15] = 
+                                    {
+                                        ["type"] = "ZU-23 Closed Insurgent",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 4267985,
+                                        ["skill"] = "Average",
+                                        ["AddPropVehicle"] = 
+                                        {
+                                            ["TentedRoof"] = true,
+                                        }, -- end of ["AddPropVehicle"]
+                                        ["y"] = -57463.325579277,
+                                        ["x"] = 65385.294859071,
+                                        ["name"] = "DictKey_UnitName_651",
+                                        ["heading"] = 0.87266462599716,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [15]
+                                    [16] = 
+                                    {
+                                        ["type"] = "ZU-23 Closed Insurgent",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 4267986,
+                                        ["skill"] = "Average",
+                                        ["y"] = -57457.859651904,
+                                        ["x"] = 65274.88312612,
+                                        ["name"] = "DictKey_UnitName_652",
+                                        ["heading"] = 2.2514747350727,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [16]
+                                    [17] = 
+                                    {
+                                        ["type"] = "ZU-23 Closed Insurgent",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 4267987,
+                                        ["skill"] = "Average",
+                                        ["y"] = -57570.585280925,
+                                        ["x"] = 65272.494809334,
+                                        ["name"] = "DictKey_UnitName_653",
+                                        ["heading"] = 3.6302848441482,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [17]
+                                    [18] = 
+                                    {
+                                        ["type"] = "p-19 s-125 sr",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 4267988,
+                                        ["skill"] = "Average",
+                                        ["y"] = -57320.622557869,
+                                        ["x"] = 65277.146101958,
+                                        ["name"] = "DictKey_UnitName_654",
+                                        ["heading"] = 4.1713369122664,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [18]
+                                    [19] = 
+                                    {
+                                        ["type"] = "Infantry AK Ins",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 4267989,
+                                        ["skill"] = "Average",
+                                        ["y"] = -57778.677969052,
+                                        ["x"] = 65251.699949719,
+                                        ["name"] = "DictKey_UnitName_655",
+                                        ["heading"] = 3.3335788713092,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [19]
+                                    [20] = 
+                                    {
+                                        ["type"] = "Infantry AK Ins",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 4267990,
+                                        ["skill"] = "Average",
+                                        ["y"] = -57800.844852859,
+                                        ["x"] = 65244.710391762,
+                                        ["name"] = "DictKey_UnitName_656",
+                                        ["heading"] = 4.1713369122664,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [20]
+                                    [21] = 
+                                    {
+                                        ["type"] = "Infantry AK Ins",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 4267991,
+                                        ["skill"] = "Average",
+                                        ["y"] = -57803.840377698,
+                                        ["x"] = 65257.191745257,
+                                        ["name"] = "DictKey_UnitName_657",
+                                        ["heading"] = 4.2236967898263,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [21]
+                                    [22] = 
+                                    {
+                                        ["type"] = "Infantry AK Ins",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 4267992,
+                                        ["skill"] = "Average",
+                                        ["y"] = -57782.272598859,
+                                        ["x"] = 65251.699949719,
+                                        ["name"] = "DictKey_UnitName_658",
+                                        ["heading"] = 4.921828490624,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [22]
+                                    [23] = 
+                                    {
+                                        ["type"] = "ZU-23 Closed Insurgent",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 4267993,
+                                        ["skill"] = "Average",
+                                        ["y"] = -57586.589453844,
+                                        ["x"] = 65378.489659481,
+                                        ["name"] = "DictKey_UnitName_659",
+                                        ["heading"] = 5.532693728822,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [23]
+                                    [24] = 
+                                    {
+                                        ["type"] = "outpost_road",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 4267994,
+                                        ["skill"] = "Average",
+                                        ["y"] = -57795.153355665,
+                                        ["x"] = 65259.688015956,
+                                        ["name"] = "DictKey_UnitName_660",
+                                        ["heading"] = 2.8099800957109,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [24]
+                                    [25] = 
+                                    {
+                                        ["type"] = "M-113",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 4267995,
+                                        ["skill"] = "Average",
+                                        ["y"] = -57777.7793116,
+                                        ["x"] = 65259.98756844,
+                                        ["name"] = "DictKey_UnitName_661",
+                                        ["heading"] = 4.1538836197465,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [25]
+                                }, -- end of ["units"]
+                                ["y"] = -57648.623005078,
+                                ["x"] = 65372.917224903,
+                                ["name"] = "DictKey_GroupName_636",
+                                ["start_time"] = 0,
+                            }, -- end of [1]
+                        }, -- end of ["group"]
+                    }, -- end of ["vehicle"]
+                    ["name"] = "Iran",
+                    ["static"] = 
+                    {
+                        ["group"] = 
+                        {
+                            [1] = 
+                            {
+                                ["heading"] = 4.0491638646268,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -57332.706701304,
+                                            ["speed"] = 0,
+                                            ["x"] = 65368.855539261,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 1318042,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["livery_id"] = "GRC_autumn",
+                                        ["category"] = "Fortifications",
+                                        ["shape_name"] = "SetkaKP",
+                                        ["type"] = "FARP Ammo Dump Coating",
+                                        ["unitId"] = 4267966,
+                                        ["rate"] = 50,
+                                        ["y"] = -57332.706701304,
+                                        ["x"] = 65368.855539261,
+                                        ["name"] = "DictKey_GroupName_621",
+                                        ["heading"] = 4.0491638646268,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -57332.706701304,
+                                ["x"] = 65368.855539261,
+                                ["name"] = "DictKey_GroupName_621",
+                                ["linkOffset"] = true,
+                                ["dead"] = false,
+                            }, -- end of [1]
+                            [2] = 
+                            {
+                                ["heading"] = 4.0491638646268,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -57354.097658656,
+                                            ["speed"] = 0,
+                                            ["x"] = 65352.715744796,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 1318043,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["livery_id"] = "GRC_autumn",
+                                        ["category"] = "Fortifications",
+                                        ["shape_name"] = "SetkaKP",
+                                        ["type"] = "FARP Ammo Dump Coating",
+                                        ["unitId"] = 4267967,
+                                        ["rate"] = 50,
+                                        ["y"] = -57354.097658656,
+                                        ["x"] = 65352.715744796,
+                                        ["name"] = "DictKey_GroupName_624",
+                                        ["heading"] = 4.0491638646268,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -57354.097658656,
+                                ["x"] = 65352.715744796,
+                                ["name"] = "DictKey_GroupName_624",
+                                ["linkOffset"] = true,
+                                ["dead"] = false,
+                            }, -- end of [2]
+                            [3] = 
+                            {
+                                ["heading"] = 4.7123889803847,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -57580.23530018,
+                                            ["speed"] = 0,
+                                            ["x"] = 65300.683639635,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 1318044,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["shape_name"] = "PalatkaB",
+                                        ["type"] = "FARP Tent",
+                                        ["unitId"] = 4267968,
+                                        ["rate"] = 50,
+                                        ["y"] = -57580.23530018,
+                                        ["x"] = 65300.683639635,
+                                        ["name"] = "DictKey_GroupName_627",
+                                        ["heading"] = 4.7123889803847,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -57580.23530018,
+                                ["x"] = 65300.683639635,
+                                ["name"] = "DictKey_GroupName_627",
+                                ["linkOffset"] = true,
+                                ["dead"] = false,
+                            }, -- end of [3]
+                            [4] = 
+                            {
+                                ["heading"] = 4.7123889803847,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -57557.639406174,
+                                            ["speed"] = 0,
+                                            ["x"] = 65314.461623785,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 1318045,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["shape_name"] = "PalatkaB",
+                                        ["type"] = "FARP Tent",
+                                        ["unitId"] = 4267969,
+                                        ["rate"] = 50,
+                                        ["y"] = -57557.639406174,
+                                        ["x"] = 65314.461623785,
+                                        ["name"] = "DictKey_GroupName_630",
+                                        ["heading"] = 4.7123889803847,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -57557.639406174,
+                                ["x"] = 65314.461623785,
+                                ["name"] = "DictKey_GroupName_630",
+                                ["linkOffset"] = true,
+                                ["dead"] = false,
+                            }, -- end of [4]
+                            [5] = 
+                            {
+                                ["heading"] = 4.7123889803847,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -57557.82311263,
+                                            ["speed"] = 0,
+                                            ["x"] = 65300.683639635,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 1318046,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["shape_name"] = "PalatkaB",
+                                        ["type"] = "FARP Tent",
+                                        ["unitId"] = 4267970,
+                                        ["rate"] = 50,
+                                        ["y"] = -57557.82311263,
+                                        ["x"] = 65300.683639635,
+                                        ["name"] = "DictKey_GroupName_633",
+                                        ["heading"] = 4.7123889803847,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -57557.82311263,
+                                ["x"] = 65300.683639635,
+                                ["name"] = "DictKey_GroupName_633",
+                                ["linkOffset"] = true,
+                                ["dead"] = false,
+                            }, -- end of [5]
+                            [6] = 
+                            {
+                                ["heading"] = 2.8797932657906,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -57366.70288644,
+                                            ["speed"] = 0,
+                                            ["x"] = 65399.250966348,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 1318048,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["livery_id"] = "GRC_autumn",
+                                        ["category"] = "Fortifications",
+                                        ["shape_name"] = "GSM Rus",
+                                        ["type"] = "FARP Fuel Depot",
+                                        ["unitId"] = 4267996,
+                                        ["rate"] = 20,
+                                        ["y"] = -57366.70288644,
+                                        ["x"] = 65399.250966348,
+                                        ["name"] = "DictKey_GroupName_663",
+                                        ["heading"] = 2.8797932657906,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -57366.70288644,
+                                ["x"] = 65399.250966348,
+                                ["name"] = "DictKey_GroupName_663",
+                                ["linkOffset"] = true,
+                                ["dead"] = false,
+                            }, -- end of [6]
+                            [7] = 
+                            {
+                                ["heading"] = 3.0543261909901,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -57439.732438365,
+                                            ["speed"] = 0,
+                                            ["x"] = 65325.586393976,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 1318049,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["shape_name"] = "kp_ug",
+                                        ["type"] = "FARP CP Blindage",
+                                        ["unitId"] = 4267997,
+                                        ["rate"] = 100,
+                                        ["y"] = -57439.732438365,
+                                        ["x"] = 65325.586393976,
+                                        ["name"] = "DictKey_GroupName_666",
+                                        ["heading"] = 3.0543261909901,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -57439.732438365,
+                                ["x"] = 65325.586393976,
+                                ["name"] = "DictKey_GroupName_666",
+                                ["linkOffset"] = true,
+                                ["dead"] = false,
+                            }, -- end of [7]
+                            [8] = 
+                            {
+                                ["heading"] = 2.8797932657906,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -57359.617122718,
+                                            ["speed"] = 0,
+                                            ["x"] = 65401.320964739,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 1318050,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["livery_id"] = "GRC_autumn",
+                                        ["category"] = "Fortifications",
+                                        ["shape_name"] = "GSM Rus",
+                                        ["type"] = "FARP Fuel Depot",
+                                        ["unitId"] = 4267998,
+                                        ["rate"] = 20,
+                                        ["y"] = -57359.617122718,
+                                        ["x"] = 65401.320964739,
+                                        ["name"] = "DictKey_GroupName_669",
+                                        ["heading"] = 2.8797932657906,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -57359.617122718,
+                                ["x"] = 65401.320964739,
+                                ["name"] = "DictKey_GroupName_669",
+                                ["linkOffset"] = true,
+                                ["dead"] = false,
+                            }, -- end of [8]
+                            [9] = 
+                            {
+                                ["heading"] = 4.7123889803847,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -57580.051593724,
+                                            ["speed"] = 0,
+                                            ["x"] = 65314.094210874,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 1318051,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["shape_name"] = "PalatkaB",
+                                        ["type"] = "FARP Tent",
+                                        ["unitId"] = 4267999,
+                                        ["rate"] = 50,
+                                        ["y"] = -57580.051593724,
+                                        ["x"] = 65314.094210874,
+                                        ["name"] = "DictKey_GroupName_672",
+                                        ["heading"] = 4.7123889803847,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -57580.051593724,
+                                ["x"] = 65314.094210874,
+                                ["name"] = "DictKey_GroupName_672",
+                                ["linkOffset"] = true,
+                                ["dead"] = false,
+                            }, -- end of [9]
+                            [10] = 
+                            {
+                                ["heading"] = 4.0491638646268,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -57343.839859245,
+                                            ["speed"] = 0,
+                                            ["x"] = 65360.437785696,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 1318052,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["livery_id"] = "GRC_autumn",
+                                        ["category"] = "Fortifications",
+                                        ["shape_name"] = "SetkaKP",
+                                        ["type"] = "FARP Ammo Dump Coating",
+                                        ["unitId"] = 4268000,
+                                        ["rate"] = 50,
+                                        ["y"] = -57343.839859245,
+                                        ["x"] = 65360.437785696,
+                                        ["name"] = "DictKey_GroupName_675",
+                                        ["heading"] = 4.0491638646268,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -57343.839859245,
+                                ["x"] = 65360.437785696,
+                                ["name"] = "DictKey_GroupName_675",
+                                ["linkOffset"] = true,
+                                ["dead"] = false,
+                            }, -- end of [10]
+                            [11] = 
+                            {
+                                ["heading"] = 2.8972465583106,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -57373.549804194,
+                                            ["speed"] = 0,
+                                            ["x"] = 65397.499429248,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 1318053,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["livery_id"] = "GRC_autumn",
+                                        ["category"] = "Fortifications",
+                                        ["shape_name"] = "GSM Rus",
+                                        ["type"] = "FARP Fuel Depot",
+                                        ["unitId"] = 4268001,
+                                        ["rate"] = 20,
+                                        ["y"] = -57373.549804194,
+                                        ["x"] = 65397.499429248,
+                                        ["name"] = "DictKey_GroupName_678",
+                                        ["heading"] = 2.8972465583106,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -57373.549804194,
+                                ["x"] = 65397.499429248,
+                                ["name"] = "DictKey_GroupName_678",
+                                ["linkOffset"] = true,
+                                ["dead"] = false,
+                            }, -- end of [11]
+                        }, -- end of ["group"]
+                    }, -- end of ["static"]
+                }, -- end of [4]
+                [5] = 
+                {
+                    ["id"] = 37,
+                    ["name"] = "Kazakhstan",
+                }, -- end of [5]
+                [6] = 
+                {
+                    ["id"] = 38,
+                    ["name"] = "North Korea",
+                }, -- end of [6]
+                [7] = 
+                {
+                    ["id"] = 0,
+                    ["name"] = "Russia",
+                }, -- end of [7]
+                [8] = 
+                {
+                    ["id"] = 43,
+                    ["name"] = "Serbia",
+                }, -- end of [8]
+                [9] = 
+                {
+                    ["id"] = 19,
+                    ["name"] = "South Ossetia",
+                }, -- end of [9]
+                [10] = 
+                {
+                    ["id"] = 47,
+                    ["name"] = "Syria",
+                }, -- end of [10]
+                [11] = 
+                {
+                    ["id"] = 7,
+                    ["name"] = "USAF Aggressors",
+                }, -- end of [11]
+            }, -- end of ["country"]
+        }, -- end of ["red"]
+    }, -- end of ["coalition"]
+    ["name"] = "QeshmWestSA-2",
+    ["requiredModules"] = 
+    {
+    }, -- end of ["requiredModules"]
+    ["localization"] = 
+    {
+        ["DEFAULT"] = 
+        {
+            ["DictKey_UnitName_212"] = "Unit #003",
+            ["DictKey_WptName_464"] = "",
+            ["DictKey_UnitName_156"] = "Unit #096",
+            ["DictKey_UnitName_656"] = "Unit #011",
+            ["DictKey_UnitName_463"] = "Iran SA-2 Bn bldngs #012",
+            ["DictKey_GroupName_261"] = "Abu Musa HAWK",
+            ["DictKey_GroupName_537"] = "Iran SA-2 Bn bldngs #008",
+            ["DictKey_GroupName_183"] = "Iran SA-2 Bn bldngs #011",
+            ["DictKey_GroupName_177"] = "Iran SA-2 Bn bldngs #010",
+            ["DictKey_UnitName_226"] = "Unit #016",
+            ["DictKey_UnitName_594"] = "Secondary Destroyed SA-2",
+            ["DictKey_UnitName_331"] = "Unit #096",
+            ["DictKey_UnitName_642"] = "Secondary Destroyed SA-2 #004",
+            ["DictKey_UnitName_469"] = "Iran SA-2 Bn bldngs #014",
+            ["DictKey_WptName_410"] = "",
+            ["DictKey_UnitName_121"] = "Iran SA-2 Bn bldngs #018",
+            ["DictKey_GroupName_339"] = "Iran SA-2 Bn bldngs #013",
+            ["DictKey_UnitName_388"] = "Secondary Destroyed SA-2 #006",
+            ["DictKey_GroupName_237"] = "Iran SA-2 Bn bldngs #010",
+            ["DictKey_WptName_671"] = "",
+            ["DictKey_UnitName_90"] = "Unit #002",
+            ["DictKey_UnitName_327"] = "Secondary Destroyed SA-2 #001",
+            ["DictKey_WptName_482"] = "",
+            ["DictKey_WptName_137"] = "",
+            ["DictKey_WptName_134"] = "",
+            ["DictKey_UnitName_274"] = "Primary Destroyed HAWK A",
+            ["DictKey_UnitName_158"] = "Unit #096",
+            ["DictKey_UnitName_568"] = "Iran SA-2 Bn bldngs #013",
+            ["DictKey_UnitName_590"] = "Unit #096",
+            ["DictKey_WptName_536"] = "",
+            ["DictKey_UnitName_650"] = "Unit #006",
+            ["DictKey_GroupName_519"] = "Iran SA-2 Bn bldngs #002",
+            ["DictKey_UnitName_130"] = "Iran SA-2 Bn bldngs #012",
+            ["DictKey_GroupName_426"] = "Qeshm Island SA-2",
+            ["DictKey_WptName_533"] = "",
+            ["DictKey_UnitName_249"] = "Unit #137",
+            ["DictKey_UnitName_428"] = "Unit #096",
+            ["DictKey_GroupName_483"] = "Iran SA-2 Bn bldngs #019",
+            ["DictKey_GroupName_351"] = "Iran SA-2 Bn bldngs #009",
+            ["DictKey_UnitName_584"] = "Secondary Destroyed SA-2 #002",
+            ["DictKey_WptName_635"] = "",
+            ["DictKey_UnitName_79"] = "Iran SA-2 Bn bldngs #015",
+            ["DictKey_UnitName_382"] = "Unit #002",
+            ["DictKey_WptName_233"] = "",
+            ["DictKey_UnitName_556"] = "Primary Destroyed HAWK C",
+            ["DictKey_WptName_176"] = "",
+            ["DictKey_GroupName_411"] = "Iran SA-2 Bn bldngs #009",
+            ["DictKey_UnitName_355"] = "Iran SA-2 Bn bldngs #017",
+            ["DictKey_UnitName_358"] = "Iran SA-2 Bn bldngs #010",
+            ["DictKey_UnitName_153"] = "Unit #096",
+            ["DictKey_WptName_566"] = "",
+            ["DictKey_UnitName_499"] = "Unit #006",
+            ["DictKey_UnitName_631"] = "Iran SA-2 Bn bldngs #014",
+            ["DictKey_UnitName_648"] = "Unit #004",
+            ["DictKey_UnitName_270"] = "Secondary Destroyed HAWK E",
+            ["DictKey_UnitName_628"] = "Iran SA-2 Bn bldngs #013",
+            ["DictKey_WptName_173"] = "",
+            ["DictKey_UnitName_175"] = "Iran SA-2 Bn bldngs #017",
+            ["DictKey_GroupName_477"] = "Iran SA-2 Bn bldngs #017",
+            ["DictKey_UnitName_579"] = "Secondary Destroyed SA-2 #003",
+            ["DictKey_WptName_236"] = "",
+            ["DictKey_UnitName_380"] = "Unit #004",
+            ["DictKey_UnitName_40"] = "Iran SA-2 Bn bldngs #011",
+            ["DictKey_GroupName_348"] = "Iran SA-2 Bn bldngs #016",
+            ["DictKey_UnitName_644"] = "Secondary Destroyed SA-2 #002",
+            ["DictKey_UnitName_541"] = "Iran SA-2 Bn bldngs #020",
+            ["DictKey_WptName_515"] = "",
+            ["DictKey_WptName_167"] = "",
+            ["DictKey_GroupName_513"] = "Iran SA-2 Bn bldngs #019",
+            ["DictKey_WptName_521"] = "",
+            ["DictKey_UnitName_301"] = "Primary Destroyed HAWK C",
+            ["DictKey_UnitName_667"] = "Iran SA-2 Bn bldngs #009",
+            ["DictKey_UnitName_22"] = "Unit #096",
+            ["DictKey_GroupName_246"] = "Qeshm HAWK",
+            ["DictKey_UnitName_553"] = "Secondary Destroyed HAWK F",
+            ["DictKey_UnitName_309"] = "Unit #014",
+            ["DictKey_WptName_392"] = "",
+            ["DictKey_UnitName_507"] = "Secondary Destroyed SA-2 #009",
+            ["DictKey_UnitName_495"] = "Unit #010",
+            ["DictKey_WptName_332"] = "",
+            ["DictKey_WptName_407"] = "",
+            ["DictKey_UnitName_607"] = "Iran SA-2 Bn bldngs #009",
+            ["DictKey_GroupName_306"] = "BandarEJaskSA-2",
+            ["DictKey_WptName_680"] = "",
+            ["DictKey_UnitName_210"] = "Unit #001",
+            ["DictKey_UnitName_435"] = "Unit #096",
+            ["DictKey_GroupName_342"] = "Iran SA-2 Bn bldngs #014",
+            ["DictKey_WptName_470"] = "",
+            ["DictKey_UnitName_58"] = "Iran SA-2 Bn bldngs #017",
+            ["DictKey_UnitName_308"] = "Unit #015",
+            ["DictKey_UnitName_224"] = "Unit #014",
+            ["DictKey_UnitName_318"] = "Unit #006",
+            ["DictKey_descriptionText_1"] = "",
+            ["DictKey_UnitName_294"] = "Unit #137",
+            ["DictKey_UnitName_178"] = "Iran SA-2 Bn bldngs #010",
+            ["DictKey_UnitName_64"] = "Iran SA-2 Bn bldngs #019",
+            ["DictKey_UnitName_343"] = "Iran SA-2 Bn bldngs #014",
+            ["DictKey_UnitName_165"] = "Unit #096",
+            ["DictKey_UnitName_383"] = "Unit #001",
+            ["DictKey_UnitName_578"] = "Primary Destroyed SA-2",
+            ["DictKey_UnitName_244"] = "Iran SA-2 Bn bldngs #011",
+            ["DictKey_UnitName_202"] = "Unit #096",
+            ["DictKey_GroupName_408"] = "Iran SA-2 Bn bldngs #016",
+            ["DictKey_WptName_413"] = "",
+            ["DictKey_UnitName_215"] = "Unit #006",
+            ["DictKey_UnitName_225"] = "Unit #015",
+            ["DictKey_GroupName_291"] = "Qeshm HAWK",
+            ["DictKey_WptName_107"] = "",
+            ["DictKey_UnitName_203"] = "Primary Destroyed SA-2",
+            ["DictKey_WptName_68"] = "",
+            ["DictKey_WptName_290"] = "",
+            ["DictKey_UnitName_510"] = "Primary Destroyed SA-2 #001",
+            ["DictKey_UnitName_86"] = "Secondary Destroyed SA-2 #009",
+            ["DictKey_UnitName_670"] = "Iran SA-2 Bn bldngs #017",
+            ["DictKey_WptName_452"] = "",
+            ["DictKey_UnitName_142"] = "Unit #096",
+            ["DictKey_UnitName_361"] = "Iran SA-2 Bn bldngs #018",
+            ["DictKey_UnitName_303"] = "Primary Destroyed HAWK B",
+            ["DictKey_UnitName_321"] = "Unit #003",
+            ["DictKey_GroupName_570"] = "Iran SA-2 Bn bldngs #014",
+            ["DictKey_UnitName_328"] = "Secondary Destroyed SA-2 #006",
+            ["DictKey_UnitName_384"] = "Secondary Destroyed SA-2 #002",
+            ["DictKey_UnitName_264"] = "Unit #137",
+            ["DictKey_UnitName_196"] = "Iran SA-2 Bn bldngs #014",
+            ["DictKey_GroupName_531"] = "Iran SA-2 Bn bldngs #006",
+            ["DictKey_WptName_518"] = "",
+            ["DictKey_UnitName_652"] = "Unit #008",
+            ["DictKey_UnitName_439"] = "Unit #096",
+            ["DictKey_UnitName_281"] = "Secondary Destroyed HAWK B",
+            ["DictKey_UnitName_252"] = "Secondary Destroyed HAWK G",
+            ["DictKey_GroupName_366"] = "Qeshm Island SA-2",
+            ["DictKey_WptName_620"] = "",
+            ["DictKey_GroupName_63"] = "Iran SA-2 Bn bldngs #019",
+            ["DictKey_UnitName_387"] = "Secondary Destroyed SA-2 #001",
+            ["DictKey_GroupName_471"] = "Iran SA-2 Bn bldngs #015",
+            ["DictKey_GroupName_276"] = "Khasab HAWK",
+            ["DictKey_WptName_227"] = "",
+            ["DictKey_GroupName_678"] = "Iran SA-2 Bn bldngs #011",
+            ["DictKey_UnitName_434"] = "Secondary Destroyed SA-2",
+            ["DictKey_UnitName_415"] = "Iran SA-2 Bn bldngs #013",
+            ["DictKey_WptName_665"] = "",
+            ["DictKey_GroupName_132"] = "Iran SA-2 Bn bldngs #013",
+            ["DictKey_UnitName_150"] = "Unit #096",
+            ["DictKey_WptName_341"] = "",
+            ["DictKey_UnitName_152"] = "Unit #096",
+            ["DictKey_UnitName_503"] = "Unit #002",
+            ["DictKey_WptName_335"] = "",
+            ["DictKey_UnitName_7"] = "Unit #096",
+            ["DictKey_UnitName_487"] = "Unit #017",
+            ["DictKey_UnitName_400"] = "Iran SA-2 Bn bldngs #015",
+            ["DictKey_UnitName_640"] = "Secondary Destroyed SA-2 #006",
+            ["DictKey_UnitName_526"] = "Iran SA-2 Bn bldngs #004",
+            ["DictKey_UnitName_87"] = "Secondary Destroyed SA-2 #010",
+            ["DictKey_WptName_602"] = "",
+            ["DictKey_WptName_629"] = "",
+            ["DictKey_UnitName_571"] = "Iran SA-2 Bn bldngs #014",
+            ["DictKey_UnitName_235"] = "Iran SA-2 Bn bldngs #017",
+            ["DictKey_WptName_338"] = "",
+            ["DictKey_UnitName_604"] = "Iran SA-2 Bn bldngs #016",
+            ["DictKey_GroupName_189"] = "Iran SA-2 Bn bldngs #012",
+            ["DictKey_UnitName_324"] = "Secondary Destroyed SA-2 #002",
+            ["DictKey_UnitName_288"] = "Primary Destroyed HAWK B",
+            ["DictKey_UnitName_14"] = "Secondary Destroyed SA-2",
+            ["DictKey_UnitName_314"] = "Secondary Destroyed SA-2",
+            ["DictKey_UnitName_223"] = "Unit #013",
+            ["DictKey_GroupName_243"] = "Iran SA-2 Bn bldngs #011",
+            ["DictKey_UnitName_92"] = "Unit #004",
+            ["DictKey_GroupName_522"] = "Iran SA-2 Bn bldngs #003",
+            ["DictKey_GroupName_465"] = "Iran SA-2 Bn bldngs #013",
+            ["DictKey_UnitName_613"] = "Iran SA-2 Bn bldngs #010",
+            ["DictKey_UnitName_31"] = "Unit #096",
+            ["DictKey_UnitName_187"] = "Iran SA-2 Bn bldngs #019",
+            ["DictKey_WptName_395"] = "",
+            ["DictKey_UnitName_211"] = "Unit #002",
+            ["DictKey_GroupName_630"] = "Iran SA-2 Bn bldngs #014",
+            ["DictKey_UnitName_555"] = "Secondary Destroyed HAWK E",
+            ["DictKey_GroupName_474"] = "Iran SA-2 Bn bldngs #016",
+            ["DictKey_UnitName_27"] = "Secondary Destroyed SA-2 #001",
+            ["DictKey_GroupName_669"] = "Iran SA-2 Bn bldngs #017",
+            ["DictKey_UnitName_23"] = "Unit #096",
+            ["DictKey_UnitName_550"] = "Secondary Destroyed HAWK C",
+            ["DictKey_GroupName_81"] = "Tunb Greater SA-2",
+            ["DictKey_WptName_119"] = "",
+            ["DictKey_WptName_575"] = "",
+            ["DictKey_GroupName_36"] = "Iran SA-2 Bn bldngs #010",
+            ["DictKey_UnitName_394"] = "Iran SA-2 Bn bldngs #018",
+            ["DictKey_UnitName_634"] = "Iran SA-2 Bn bldngs #015",
+            ["DictKey_UnitName_432"] = "Unit #096",
+            ["DictKey_UnitName_127"] = "Iran SA-2 Bn bldngs #019",
+            ["DictKey_GroupName_72"] = "Iran SA-2 Bn bldngs #002",
+            ["DictKey_UnitName_504"] = "Secondary Destroyed SA-2 #012",
+            ["DictKey_GroupName_66"] = "Iran SA-2 Bn bldngs #019",
+            ["DictKey_UnitName_143"] = "Primary Destroyed SA-2",
+            ["DictKey_GroupName_174"] = "Iran SA-2 Bn bldngs #017",
+            ["DictKey_UnitName_494"] = "Secondary Destroyed SA-2 #013",
+            ["DictKey_UnitName_30"] = "Primary Destroyed SA-2",
+            ["DictKey_UnitName_84"] = "Secondary Destroyed SA-2 #007",
+            ["DictKey_UnitName_424"] = "Iran SA-2 Bn bldngs #014",
+            ["DictKey_UnitName_293"] = "Unit #138",
+            ["DictKey_UnitName_254"] = "Secondary Destroyed HAWK D",
+            ["DictKey_GroupName_42"] = "Iran SA-2 Bn bldngs #012",
+            ["DictKey_UnitName_265"] = "Secondary Destroyed HAWK C",
+            ["DictKey_GroupName_525"] = "Iran SA-2 Bn bldngs #004",
+            ["DictKey_WptName_65"] = "",
+            ["DictKey_WptName_455"] = "",
+            ["DictKey_GroupName_666"] = "Iran SA-2 Bn bldngs #009",
+            ["DictKey_GroupName_57"] = "Iran SA-2 Bn bldngs #017",
+            ["DictKey_UnitName_29"] = "Secondary Destroyed SA-2 #003",
+            ["DictKey_GroupName_405"] = "Iran SA-2 Bn bldngs #012",
+            ["DictKey_UnitName_279"] = "Unit #137",
+            ["DictKey_WptName_110"] = "",
+            ["DictKey_UnitName_481"] = "Iran SA-2 Bn bldngs #018",
+            ["DictKey_GroupName_480"] = "Iran SA-2 Bn bldngs #018",
+            ["DictKey_GroupName_114"] = "Iran SA-2 Bn bldngs #007",
+            ["DictKey_GroupName_627"] = "Iran SA-2 Bn bldngs #013",
+            ["DictKey_WptName_50"] = "",
+            ["DictKey_UnitName_369"] = "Unit #014",
+            ["DictKey_UnitName_154"] = "Unit #096",
+            ["DictKey_UnitName_28"] = "Secondary Destroyed SA-2 #006",
+            ["DictKey_UnitName_221"] = "Unit #011",
+            ["DictKey_UnitName_429"] = "Unit #096",
+            ["DictKey_UnitName_255"] = "Secondary Destroyed HAWK E",
+            ["DictKey_UnitName_554"] = "Secondary Destroyed HAWK D",
+            ["DictKey_UnitName_296"] = "Secondary Destroyed HAWK B",
+            ["DictKey_WptName_479"] = "",
+            ["DictKey_UnitName_13"] = "Unit #096",
+            ["DictKey_GroupName_126"] = "Iran SA-2 Bn bldngs #019",
+            ["DictKey_UnitName_616"] = "Iran SA-2 Bn bldngs #018",
+            ["DictKey_UnitName_250"] = "Secondary Destroyed HAWK C",
+            ["DictKey_WptName_242"] = "",
+            ["DictKey_GroupName_171"] = "Iran SA-2 Bn bldngs #009",
+            ["DictKey_GroupName_528"] = "Iran SA-2 Bn bldngs #005",
+            ["DictKey_UnitName_529"] = "Iran SA-2 Bn bldngs #005",
+            ["DictKey_GroupName_231"] = "Iran SA-2 Bn bldngs #009",
+            ["DictKey_UnitName_381"] = "Unit #003",
+            ["DictKey_UnitName_475"] = "Iran SA-2 Bn bldngs #016",
+            ["DictKey_GroupName_141"] = "Qeshm Island SA-2",
+            ["DictKey_UnitName_484"] = "Iran SA-2 Bn bldngs #019",
+            ["DictKey_UnitName_559"] = "Primary Destroyed HAWK A",
+            ["DictKey_UnitName_112"] = "Iran SA-2 Bn bldngs #009",
+            ["DictKey_UnitName_391"] = "Unit #096",
+            ["DictKey_UnitName_184"] = "Iran SA-2 Bn bldngs #011",
+            ["DictKey_UnitName_551"] = "Secondary Destroyed HAWK B",
+            ["DictKey_UnitName_82"] = "Unit #001",
+            ["DictKey_UnitName_375"] = "Unit #009",
+            ["DictKey_GroupName_39"] = "Iran SA-2 Bn bldngs #011",
+            ["DictKey_UnitName_386"] = "Secondary Destroyed SA-2 #004",
+            ["DictKey_UnitName_16"] = "Unit #096",
+            ["DictKey_WptName_131"] = "",
+            ["DictKey_WptName_419"] = "",
+            ["DictKey_UnitName_209"] = "Secondary Destroyed SA-2 #002",
+            ["DictKey_UnitName_317"] = "Unit #007",
+            ["DictKey_GroupName_195"] = "Iran SA-2 Bn bldngs #014",
+            ["DictKey_UnitName_638"] = "Primary Destroyed SA-2",
+            ["DictKey_WptName_362"] = "",
+            ["DictKey_WptName_275"] = "",
+            ["DictKey_descriptionBlueTask_3"] = "",
+            ["DictKey_UnitName_389"] = "Secondary Destroyed SA-2 #003",
+            ["DictKey_WptName_44"] = "",
+            ["DictKey_UnitName_253"] = "Secondary Destroyed HAWK F",
+            ["DictKey_GroupName_423"] = "Iran SA-2 Bn bldngs #014",
+            ["DictKey_UnitName_403"] = "Iran SA-2 Bn bldngs #019",
+            ["DictKey_WptName_56"] = "",
+            ["DictKey_GroupName_363"] = "Iran SA-2 Bn bldngs #011",
+            ["DictKey_UnitName_8"] = "Unit #096",
+            ["DictKey_UnitName_89"] = "Secondary Destroyed SA-2 #012",
+            ["DictKey_UnitName_67"] = "Iran SA-2 Bn bldngs #019",
+            ["DictKey_WptName_401"] = "",
+            ["DictKey_UnitName_364"] = "Iran SA-2 Bn bldngs #011",
+            ["DictKey_UnitName_497"] = "Unit #008",
+            ["DictKey_UnitName_297"] = "Secondary Destroyed HAWK G",
+            ["DictKey_WptName_113"] = "",
+            ["DictKey_WptName_182"] = "",
+            ["DictKey_UnitName_26"] = "Secondary Destroyed SA-2 #004",
+            ["DictKey_UnitName_374"] = "Secondary Destroyed SA-2",
+            ["DictKey_GroupName_402"] = "Iran SA-2 Bn bldngs #019",
+            ["DictKey_WptName_512"] = "",
+            ["DictKey_UnitName_329"] = "Secondary Destroyed SA-2 #003",
+            ["DictKey_UnitName_145"] = "Secondary Destroyed SA-2 #006",
+            ["DictKey_UnitName_25"] = "Secondary Destroyed SA-2 #005",
+            ["DictKey_UnitName_378"] = "Unit #006",
+            ["DictKey_UnitName_320"] = "Unit #004",
+            ["DictKey_UnitName_660"] = "Unit #015",
+            ["DictKey_WptName_59"] = "",
+            ["DictKey_UnitName_312"] = "Unit #011",
+            ["DictKey_WptName_416"] = "",
+            ["DictKey_UnitName_406"] = "Iran SA-2 Bn bldngs #012",
+            ["DictKey_UnitName_76"] = "Iran SA-2 Bn bldngs #014",
+            ["DictKey_WptName_260"] = "",
+            ["DictKey_UnitName_258"] = "Primary Destroyed HAWK B",
+            ["DictKey_GroupName_354"] = "Iran SA-2 Bn bldngs #017",
+            ["DictKey_UnitName_157"] = "Unit #096",
+            ["DictKey_GroupName_129"] = "Iran SA-2 Bn bldngs #012",
+            ["DictKey_UnitName_653"] = "Unit #009",
+            ["DictKey_GroupName_360"] = "Iran SA-2 Bn bldngs #018",
+            ["DictKey_GroupName_345"] = "Iran SA-2 Bn bldngs #015",
+            ["DictKey_UnitName_315"] = "Unit #009",
+            ["DictKey_UnitName_43"] = "Iran SA-2 Bn bldngs #012",
+            ["DictKey_GroupName_672"] = "Iran SA-2 Bn bldngs #010",
+            ["DictKey_WptName_53"] = "",
+            ["DictKey_UnitName_654"] = "Secondary Destroyed SA-2",
+            ["DictKey_UnitName_583"] = "Secondary Destroyed SA-2 #005",
+            ["DictKey_UnitName_99"] = "Secondary Destroyed SA-2 #013",
+            ["DictKey_UnitName_450"] = "Primary Destroyed SA-2",
+            ["DictKey_GroupName_33"] = "Iran SA-2 Bn bldngs #009",
+            ["DictKey_GroupName_576"] = "Qeshm Island SA-2",
+            ["DictKey_UnitName_216"] = "Unit #007",
+            ["DictKey_UnitName_655"] = "Unit #010",
+            ["DictKey_UnitName_299"] = "Secondary Destroyed HAWK D",
+            ["DictKey_GroupName_120"] = "Iran SA-2 Bn bldngs #020",
+            ["DictKey_UnitName_105"] = "Unit #016",
+            ["DictKey_UnitName_316"] = "Unit #008",
+            ["DictKey_WptName_47"] = "",
+            ["DictKey_UnitName_93"] = "Unit #005",
+            ["DictKey_UnitName_641"] = "Secondary Destroyed SA-2 #001",
+            ["DictKey_UnitName_577"] = "Unit #096",
+            ["DictKey_UnitName_377"] = "Unit #007",
+            ["DictKey_UnitName_11"] = "Unit #096",
+            ["DictKey_UnitName_549"] = "Unit #137",
+            ["DictKey_UnitName_323"] = "Unit #001",
+            ["DictKey_UnitName_581"] = "Secondary Destroyed SA-2 #001",
+            ["DictKey_UnitName_208"] = "Secondary Destroyed SA-2 #005",
+            ["DictKey_UnitName_505"] = "Secondary Destroyed SA-2 #011",
+            ["DictKey_UnitName_445"] = "Secondary Destroyed SA-2 #005",
+            ["DictKey_UnitName_664"] = "Iran SA-2 Bn bldngs #016",
+            ["DictKey_UnitName_595"] = "Unit #096",
+            ["DictKey_GroupName_414"] = "Iran SA-2 Bn bldngs #013",
+            ["DictKey_UnitName_430"] = "Unit #096",
+            ["DictKey_UnitName_673"] = "Iran SA-2 Bn bldngs #010",
+            ["DictKey_UnitName_373"] = "Unit #010",
+            ["DictKey_UnitName_287"] = "Secondary Destroyed HAWK A",
+            ["DictKey_UnitName_523"] = "Iran SA-2 Bn bldngs #003",
+            ["DictKey_UnitName_492"] = "Unit #012",
+            ["DictKey_WptName_473"] = "",
+            ["DictKey_UnitName_446"] = "Secondary Destroyed SA-2 #004",
+            ["DictKey_UnitName_259"] = "Primary Destroyed HAWK A",
+            ["DictKey_GroupName_561"] = "Iran SA-2 Bn bldngs #019",
+            ["DictKey_WptName_404"] = "",
+            ["DictKey_WptName_560"] = "",
+            ["DictKey_UnitName_371"] = "Unit #012",
+            ["DictKey_UnitName_248"] = "Unit #138",
+            ["DictKey_UnitName_213"] = "Unit #004",
+            ["DictKey_UnitName_97"] = "Unit #009",
+            ["DictKey_GroupName_399"] = "Iran SA-2 Bn bldngs #015",
+            ["DictKey_UnitName_37"] = "Iran SA-2 Bn bldngs #010",
+            ["DictKey_WptName_80"] = "",
+            ["DictKey_GroupName_636"] = "Qeshm Island SA-2",
+            ["DictKey_GroupName_60"] = "Iran SA-2 Bn bldngs #018",
+            ["DictKey_UnitName_55"] = "Iran SA-2 Bn bldngs #016",
+            ["DictKey_UnitName_229"] = "Iran SA-2 Bn bldngs #016",
+            ["DictKey_UnitName_657"] = "Unit #012",
+            ["DictKey_UnitName_307"] = "Unit #016",
+            ["DictKey_UnitName_649"] = "Unit #005",
+            ["DictKey_UnitName_591"] = "Unit #096",
+            ["DictKey_UnitName_271"] = "Primary Destroyed HAWK C",
+            ["DictKey_UnitName_289"] = "Primary Destroyed HAWK A",
+            ["DictKey_WptName_398"] = "",
+            ["DictKey_UnitName_441"] = "Unit #096",
+            ["DictKey_UnitName_544"] = "Iran SA-2 Bn bldngs #021",
+            ["DictKey_GroupName_564"] = "Iran SA-2 Bn bldngs #012",
+            ["DictKey_UnitName_101"] = "Unit #012",
+            ["DictKey_UnitName_273"] = "Primary Destroyed HAWK B",
+            ["DictKey_UnitName_658"] = "Unit #013",
+            ["DictKey_GroupName_69"] = "Iran SA-2 Bn bldngs #001",
+            ["DictKey_UnitName_269"] = "Secondary Destroyed HAWK D",
+            ["DictKey_UnitName_160"] = "Unit #096",
+            ["DictKey_WptName_35"] = "",
+            ["DictKey_GroupName_606"] = "Iran SA-2 Bn bldngs #009",
+            ["DictKey_GroupName_192"] = "Iran SA-2 Bn bldngs #013",
+            ["DictKey_UnitName_437"] = "Unit #096",
+            ["DictKey_UnitName_619"] = "Iran SA-2 Bn bldngs #011",
+            ["DictKey_GroupName_618"] = "Iran SA-2 Bn bldngs #011",
+            ["DictKey_GroupName_180"] = "Iran SA-2 Bn bldngs #018",
+            ["DictKey_UnitName_431"] = "Unit #096",
+            ["DictKey_GroupName_234"] = "Iran SA-2 Bn bldngs #017",
+            ["DictKey_UnitName_161"] = "Unit #096",
+            ["DictKey_WptName_197"] = "",
+            ["DictKey_UnitName_219"] = "Secondary Destroyed SA-2",
+            ["DictKey_UnitName_597"] = "Unit #096",
+            ["DictKey_UnitName_266"] = "Secondary Destroyed HAWK B",
+            ["DictKey_GroupName_228"] = "Iran SA-2 Bn bldngs #016",
+            ["DictKey_UnitName_588"] = "Unit #096",
+            ["DictKey_UnitName_582"] = "Secondary Destroyed SA-2 #004",
+            ["DictKey_GroupName_393"] = "Iran SA-2 Bn bldngs #018",
+            ["DictKey_WptName_170"] = "",
+            ["DictKey_UnitName_319"] = "Unit #005",
+            ["DictKey_UnitName_520"] = "Iran SA-2 Bn bldngs #002",
+            ["DictKey_UnitName_204"] = "Secondary Destroyed SA-2 #003",
+            ["DictKey_UnitName_592"] = "Unit #096",
+            ["DictKey_UnitName_322"] = "Unit #002",
+            ["DictKey_UnitName_61"] = "Iran SA-2 Bn bldngs #018",
+            ["DictKey_UnitName_514"] = "Iran SA-2 Bn bldngs #019",
+            ["DictKey_UnitName_643"] = "Secondary Destroyed SA-2 #005",
+            ["DictKey_UnitName_155"] = "Unit #096",
+            ["DictKey_GroupName_534"] = "Iran SA-2 Bn bldngs #007",
+            ["DictKey_UnitName_596"] = "Unit #096",
+            ["DictKey_UnitName_222"] = "Unit #012",
+            ["DictKey_UnitName_147"] = "Secondary Destroyed SA-2 #004",
+            ["DictKey_UnitName_98"] = "Unit #010",
+            ["DictKey_UnitName_282"] = "Secondary Destroyed HAWK G",
+            ["DictKey_UnitName_337"] = "Iran SA-2 Bn bldngs #012",
+            ["DictKey_UnitName_622"] = "Iran SA-2 Bn bldngs #019",
+            ["DictKey_UnitName_367"] = "Unit #016",
+            ["DictKey_GroupName_336"] = "Iran SA-2 Bn bldngs #012",
+            ["DictKey_WptName_608"] = "",
+            ["DictKey_UnitName_311"] = "Unit #012",
+            ["DictKey_UnitName_144"] = "Secondary Destroyed SA-2 #003",
+            ["DictKey_UnitName_447"] = "Secondary Destroyed SA-2 #001",
+            ["DictKey_UnitName_20"] = "Unit #096",
+            ["DictKey_GroupName_123"] = "Iran SA-2 Bn bldngs #021",
+            ["DictKey_UnitName_10"] = "Unit #096",
+            ["DictKey_UnitName_193"] = "Iran SA-2 Bn bldngs #013",
+            ["DictKey_UnitName_313"] = "Unit #010",
+            ["DictKey_UnitName_409"] = "Iran SA-2 Bn bldngs #016",
+            ["DictKey_WptName_41"] = "",
+            ["DictKey_WptName_353"] = "",
+            ["DictKey_UnitName_96"] = "Unit #008",
+            ["DictKey_UnitName_390"] = "Primary Destroyed SA-2",
+            ["DictKey_WptName_632"] = "",
+            ["DictKey_GroupName_135"] = "Iran SA-2 Bn bldngs #014",
+            ["DictKey_WptName_461"] = "",
+            ["DictKey_UnitName_148"] = "Secondary Destroyed SA-2 #005",
+            ["DictKey_WptName_605"] = "",
+            ["DictKey_UnitName_118"] = "Iran SA-2 Bn bldngs #010",
+            ["DictKey_GroupName_675"] = "Iran SA-2 Bn bldngs #018",
+            ["DictKey_GroupName_78"] = "Iran SA-2 Bn bldngs #004",
+            ["DictKey_UnitName_340"] = "Iran SA-2 Bn bldngs #013",
+            ["DictKey_UnitName_85"] = "Secondary Destroyed SA-2 #008",
+            ["DictKey_WptName_245"] = "",
+            ["DictKey_WptName_185"] = "",
+            ["DictKey_GroupName_543"] = "Iran SA-2 Bn bldngs #021",
+            ["DictKey_UnitName_397"] = "Iran SA-2 Bn bldngs #011",
+            ["DictKey_UnitName_278"] = "Unit #138",
+            ["DictKey_GroupName_459"] = "Iran SA-2 Bn bldngs #011",
+            ["DictKey_UnitName_70"] = "Iran SA-2 Bn bldngs #012",
+            ["DictKey_GroupName_663"] = "Iran SA-2 Bn bldngs #016",
+            ["DictKey_WptName_485"] = "",
+            ["DictKey_UnitName_598"] = "Unit #096",
+            ["DictKey_UnitName_91"] = "Unit #003",
+            ["DictKey_UnitName_298"] = "Secondary Destroyed HAWK F",
+            ["DictKey_UnitName_349"] = "Iran SA-2 Bn bldngs #016",
+            ["DictKey_GroupName_201"] = "BandarEJaskSA-2",
+            ["DictKey_GroupName_615"] = "Iran SA-2 Bn bldngs #018",
+            ["DictKey_GroupName_417"] = "Iran SA-2 Bn bldngs #017",
+            ["DictKey_UnitName_488"] = "Unit #016",
+            ["DictKey_UnitName_535"] = "Iran SA-2 Bn bldngs #007",
+            ["DictKey_GroupName_240"] = "Iran SA-2 Bn bldngs #018",
+            ["DictKey_UnitName_443"] = "Unit #096",
+            ["DictKey_UnitName_139"] = "Iran SA-2 Bn bldngs #015",
+            ["DictKey_UnitName_232"] = "Iran SA-2 Bn bldngs #009",
+            ["DictKey_WptName_356"] = "",
+            ["DictKey_UnitName_496"] = "Unit #009",
+            ["DictKey_UnitName_21"] = "Unit #096",
+            ["DictKey_UnitName_284"] = "Secondary Destroyed HAWK D",
+            ["DictKey_WptName_674"] = "",
+            ["DictKey_UnitName_295"] = "Secondary Destroyed HAWK C",
+            ["DictKey_WptName_527"] = "",
+            ["DictKey_WptName_74"] = "",
+            ["DictKey_GroupName_573"] = "Iran SA-2 Bn bldngs #015",
+            ["DictKey_UnitName_102"] = "Unit #013",
+            ["DictKey_UnitName_548"] = "Unit #138",
+            ["DictKey_WptName_524"] = "",
+            ["DictKey_UnitName_115"] = "Iran SA-2 Bn bldngs #017",
+            ["DictKey_UnitName_586"] = "Unit #096",
+            ["DictKey_GroupName_621"] = "Iran SA-2 Bn bldngs #019",
+            ["DictKey_GroupName_516"] = "Iran SA-2 Bn bldngs #001",
+            ["DictKey_sortie_5"] = "",
+            ["DictKey_UnitName_385"] = "Secondary Destroyed SA-2 #005",
+            ["DictKey_UnitName_207"] = "Secondary Destroyed SA-2 #004",
+            ["DictKey_WptName_668"] = "",
+            ["DictKey_UnitName_418"] = "Iran SA-2 Bn bldngs #017",
+            ["DictKey_UnitName_247"] = "Unit #139",
+            ["DictKey_UnitName_562"] = "Iran SA-2 Bn bldngs #019",
+            ["DictKey_GroupName_186"] = "Iran SA-2 Bn bldngs #019",
+            ["DictKey_GroupName_45"] = "Iran SA-2 Bn bldngs #013",
+            ["DictKey_WptName_422"] = "",
+            ["DictKey_WptName_77"] = "",
+            ["DictKey_UnitName_433"] = "Unit #096",
+            ["DictKey_UnitName_190"] = "Iran SA-2 Bn bldngs #012",
+            ["DictKey_GroupName_198"] = "Iran SA-2 Bn bldngs #015",
+            ["DictKey_UnitName_88"] = "Secondary Destroyed SA-2 #011",
+            ["DictKey_UnitName_133"] = "Iran SA-2 Bn bldngs #013",
+            ["DictKey_UnitName_637"] = "Unit #096",
+            ["DictKey_UnitName_73"] = "Iran SA-2 Bn bldngs #013",
+            ["DictKey_UnitName_532"] = "Iran SA-2 Bn bldngs #006",
+            ["DictKey_UnitName_438"] = "Unit #096",
+            ["DictKey_UnitName_379"] = "Unit #005",
+            ["DictKey_UnitName_451"] = "Unit #096",
+            ["DictKey_UnitName_310"] = "Unit #013",
+            ["DictKey_GroupName_420"] = "Iran SA-2 Bn bldngs #010",
+            ["DictKey_UnitName_206"] = "Secondary Destroyed SA-2 #001",
+            ["DictKey_WptName_569"] = "",
+            ["DictKey_UnitName_104"] = "Unit #015",
+            ["DictKey_WptName_125"] = "",
+            ["DictKey_UnitName_283"] = "Secondary Destroyed HAWK F",
+            ["DictKey_UnitName_49"] = "Iran SA-2 Bn bldngs #014",
+            ["DictKey_GroupName_453"] = "Iran SA-2 Bn bldngs #009",
+            ["DictKey_UnitName_52"] = "Iran SA-2 Bn bldngs #015",
+            ["DictKey_UnitName_172"] = "Iran SA-2 Bn bldngs #009",
+            ["DictKey_UnitName_444"] = "Secondary Destroyed SA-2 #002",
+            ["DictKey_UnitName_106"] = "Unit #017",
+            ["DictKey_WptName_572"] = "",
+            ["DictKey_UnitName_280"] = "Secondary Destroyed HAWK C",
+            ["DictKey_UnitName_267"] = "Secondary Destroyed HAWK G",
+            ["DictKey_GroupName_357"] = "Iran SA-2 Bn bldngs #010",
+            ["DictKey_WptName_71"] = "",
+            ["DictKey_UnitName_251"] = "Secondary Destroyed HAWK B",
+            ["DictKey_WptName_350"] = "",
+            ["DictKey_UnitName_454"] = "Iran SA-2 Bn bldngs #009",
+            ["DictKey_UnitName_256"] = "Primary Destroyed HAWK C",
+            ["DictKey_UnitName_346"] = "Iran SA-2 Bn bldngs #015",
+            ["DictKey_UnitName_460"] = "Iran SA-2 Bn bldngs #011",
+            ["DictKey_UnitName_502"] = "Unit #003",
+            ["DictKey_UnitName_159"] = "Secondary Destroyed SA-2",
+            ["DictKey_UnitName_304"] = "Primary Destroyed HAWK A",
+            ["DictKey_UnitName_500"] = "Unit #005",
+            ["DictKey_UnitName_162"] = "Unit #096",
+            ["DictKey_GroupName_108"] = "Iran SA-2 Bn bldngs #005",
+            ["DictKey_UnitName_199"] = "Iran SA-2 Bn bldngs #015",
+            ["DictKey_UnitName_646"] = "Unit #002",
+            ["DictKey_UnitName_292"] = "Unit #139",
+            ["DictKey_GroupName_456"] = "Iran SA-2 Bn bldngs #010",
+            ["DictKey_UnitName_218"] = "Unit #009",
+            ["DictKey_GroupName_48"] = "Iran SA-2 Bn bldngs #014",
+            ["DictKey_WptName_458"] = "",
+            ["DictKey_UnitName_149"] = "Secondary Destroyed SA-2 #002",
+            ["DictKey_WptName_179"] = "",
+            ["DictKey_UnitName_169"] = "Iran SA-2 Bn bldngs #016",
+            ["DictKey_UnitName_238"] = "Iran SA-2 Bn bldngs #010",
+            ["DictKey_UnitName_302"] = "Secondary Destroyed HAWK A",
+            ["DictKey_UnitName_151"] = "Unit #096",
+            ["DictKey_UnitName_136"] = "Iran SA-2 Bn bldngs #014",
+            ["DictKey_UnitName_565"] = "Iran SA-2 Bn bldngs #012",
+            ["DictKey_WptName_62"] = "",
+            ["DictKey_WptName_140"] = "",
+            ["DictKey_WptName_425"] = "",
+            ["DictKey_GroupName_117"] = "Iran SA-2 Bn bldngs #008",
+            ["DictKey_GroupName_468"] = "Iran SA-2 Bn bldngs #014",
+            ["DictKey_UnitName_24"] = "Secondary Destroyed SA-2 #002",
+            ["DictKey_UnitName_163"] = "Unit #096",
+            ["DictKey_WptName_545"] = "",
+            ["DictKey_GroupName_6"] = "Qeshm Island SA-2",
+            ["DictKey_UnitName_493"] = "Unit #011",
+            ["DictKey_UnitName_610"] = "Iran SA-2 Bn bldngs #017",
+            ["DictKey_UnitName_268"] = "Secondary Destroyed HAWK F",
+            ["DictKey_UnitName_489"] = "Unit #015",
+            ["DictKey_UnitName_376"] = "Unit #008",
+            ["DictKey_UnitName_557"] = "Secondary Destroyed HAWK A",
+            ["DictKey_GroupName_486"] = "Tunb Greater SA-2",
+            ["DictKey_descriptionNeutralsTask_4"] = "",
+            ["DictKey_WptName_116"] = "",
+            ["DictKey_UnitName_585"] = "Unit #096",
+            ["DictKey_GroupName_333"] = "Iran SA-2 Bn bldngs #019",
+            ["DictKey_WptName_38"] = "",
+            ["DictKey_UnitName_103"] = "Unit #014",
+            ["DictKey_UnitName_95"] = "Unit #007",
+            ["DictKey_UnitName_472"] = "Iran SA-2 Bn bldngs #015",
+            ["DictKey_UnitName_552"] = "Secondary Destroyed HAWK G",
+            ["DictKey_UnitName_19"] = "Unit #096",
+            ["DictKey_UnitName_46"] = "Iran SA-2 Bn bldngs #013",
+            ["DictKey_WptName_476"] = "",
+            ["DictKey_WptName_200"] = "",
+            ["DictKey_WptName_122"] = "",
+            ["DictKey_UnitName_478"] = "Iran SA-2 Bn bldngs #017",
+            ["DictKey_GroupName_567"] = "Iran SA-2 Bn bldngs #013",
+            ["DictKey_UnitName_164"] = "Unit #096",
+            ["DictKey_descriptionRedTask_2"] = "",
+            ["DictKey_UnitName_538"] = "Iran SA-2 Bn bldngs #008",
+            ["DictKey_UnitName_427"] = "Unit #096",
+            ["DictKey_UnitName_370"] = "Unit #013",
+            ["DictKey_GroupName_111"] = "Iran SA-2 Bn bldngs #006",
+            ["DictKey_UnitName_94"] = "Unit #006",
+            ["DictKey_WptName_32"] = "",
+            ["DictKey_UnitName_286"] = "Primary Destroyed HAWK C",
+            ["DictKey_UnitName_491"] = "Unit #013",
+            ["DictKey_WptName_365"] = "",
+            ["DictKey_GroupName_75"] = "Iran SA-2 Bn bldngs #003",
+            ["DictKey_WptName_239"] = "",
+            ["DictKey_UnitName_440"] = "Unit #096",
+            ["DictKey_UnitName_257"] = "Secondary Destroyed HAWK A",
+            ["DictKey_UnitName_498"] = "Unit #007",
+            ["DictKey_GroupName_51"] = "Iran SA-2 Bn bldngs #015",
+            ["DictKey_UnitName_647"] = "Unit #003",
+            ["DictKey_GroupName_540"] = "Iran SA-2 Bn bldngs #020",
+            ["DictKey_UnitName_12"] = "Unit #096",
+            ["DictKey_UnitName_506"] = "Secondary Destroyed SA-2 #010",
+            ["DictKey_GroupName_54"] = "Iran SA-2 Bn bldngs #016",
+            ["DictKey_UnitName_508"] = "Secondary Destroyed SA-2 #008",
+            ["DictKey_UnitName_509"] = "Secondary Destroyed SA-2 #007",
+            ["DictKey_UnitName_9"] = "Unit #096",
+            ["DictKey_UnitName_421"] = "Iran SA-2 Bn bldngs #010",
+            ["DictKey_UnitName_146"] = "Secondary Destroyed SA-2 #001",
+            ["DictKey_WptName_128"] = "",
+            ["DictKey_WptName_194"] = "",
+            ["DictKey_UnitName_326"] = "Secondary Destroyed SA-2 #004",
+            ["DictKey_WptName_530"] = "",
+            ["DictKey_UnitName_277"] = "Unit #139",
+            ["DictKey_UnitName_83"] = "Primary Destroyed SA-2 #001",
+            ["DictKey_UnitName_449"] = "Secondary Destroyed SA-2 #003",
+            ["DictKey_UnitName_517"] = "Iran SA-2 Bn bldngs #001",
+            ["DictKey_WptName_626"] = "",
+            ["DictKey_WptName_467"] = "",
+            ["DictKey_WptName_191"] = "",
+            ["DictKey_UnitName_511"] = "Unit #001",
+            ["DictKey_UnitName_220"] = "Unit #010",
+            ["DictKey_WptName_563"] = "",
+            ["DictKey_UnitName_587"] = "Unit #096",
+            ["DictKey_WptName_677"] = "",
+            ["DictKey_UnitName_109"] = "Iran SA-2 Bn bldngs #016",
+            ["DictKey_WptName_347"] = "",
+            ["DictKey_WptName_623"] = "",
+            ["DictKey_UnitName_166"] = "Unit #096",
+            ["DictKey_UnitName_100"] = "Unit #011",
+            ["DictKey_UnitName_205"] = "Secondary Destroyed SA-2 #006",
+            ["DictKey_UnitName_272"] = "Secondary Destroyed HAWK A",
+            ["DictKey_UnitName_639"] = "Secondary Destroyed SA-2 #003",
+            ["DictKey_UnitName_124"] = "Iran SA-2 Bn bldngs #011",
+            ["DictKey_WptName_617"] = "",
+            ["DictKey_UnitName_262"] = "Unit #139",
+            ["DictKey_UnitName_645"] = "Unit #001",
+            ["DictKey_UnitName_181"] = "Iran SA-2 Bn bldngs #018",
+            ["DictKey_GroupName_462"] = "Iran SA-2 Bn bldngs #012",
+            ["DictKey_UnitName_15"] = "Unit #096",
+            ["DictKey_UnitName_214"] = "Unit #005",
+            ["DictKey_UnitName_599"] = "Unit #096",
+            ["DictKey_UnitName_263"] = "Unit #138",
+            ["DictKey_UnitName_352"] = "Iran SA-2 Bn bldngs #009",
+            ["DictKey_WptName_539"] = "",
+            ["DictKey_WptName_230"] = "",
+            ["DictKey_GroupName_612"] = "Iran SA-2 Bn bldngs #010",
+            ["DictKey_WptName_542"] = "",
+            ["DictKey_UnitName_600"] = "Unit #096",
+            ["DictKey_UnitName_501"] = "Unit #004",
+            ["DictKey_WptName_614"] = "",
+            ["DictKey_GroupName_546"] = "Tunb Greater HAWK",
+            ["DictKey_WptName_344"] = "",
+            ["DictKey_UnitName_217"] = "Unit #008",
+            ["DictKey_UnitName_547"] = "Unit #139",
+            ["DictKey_GroupName_603"] = "Iran SA-2 Bn bldngs #016",
+            ["DictKey_UnitName_558"] = "Primary Destroyed HAWK B",
+            ["DictKey_UnitName_601"] = "Unit #096",
+            ["DictKey_UnitName_436"] = "Unit #096",
+            ["DictKey_UnitName_34"] = "Iran SA-2 Bn bldngs #009",
+            ["DictKey_GroupName_138"] = "Iran SA-2 Bn bldngs #015",
+            ["DictKey_UnitName_412"] = "Iran SA-2 Bn bldngs #009",
+            ["DictKey_UnitName_368"] = "Unit #015",
+            ["DictKey_WptName_611"] = "",
+            ["DictKey_WptName_359"] = "",
+            ["DictKey_UnitName_490"] = "Unit #014",
+            ["DictKey_UnitName_589"] = "Unit #096",
+            ["DictKey_UnitName_18"] = "Unit #096",
+            ["DictKey_UnitName_659"] = "Unit #014",
+            ["DictKey_UnitName_442"] = "Unit #096",
+            ["DictKey_WptName_305"] = "",
+            ["DictKey_UnitName_574"] = "Iran SA-2 Bn bldngs #015",
+            ["DictKey_UnitName_330"] = "Primary Destroyed SA-2",
+            ["DictKey_GroupName_624"] = "Iran SA-2 Bn bldngs #012",
+            ["DictKey_UnitName_285"] = "Secondary Destroyed HAWK E",
+            ["DictKey_UnitName_448"] = "Secondary Destroyed SA-2 #006",
+            ["DictKey_UnitName_334"] = "Iran SA-2 Bn bldngs #019",
+            ["DictKey_UnitName_593"] = "Unit #096",
+            ["DictKey_GroupName_396"] = "Iran SA-2 Bn bldngs #011",
+            ["DictKey_UnitName_325"] = "Secondary Destroyed SA-2 #005",
+            ["DictKey_GroupName_168"] = "Iran SA-2 Bn bldngs #016",
+            ["DictKey_UnitName_17"] = "Unit #096",
+            ["DictKey_UnitName_580"] = "Secondary Destroyed SA-2 #006",
+            ["DictKey_UnitName_372"] = "Unit #011",
+            ["DictKey_UnitName_625"] = "Iran SA-2 Bn bldngs #012",
+            ["DictKey_UnitName_661"] = "Unit #016",
+            ["DictKey_UnitName_651"] = "Unit #007",
+            ["DictKey_GroupName_633"] = "Iran SA-2 Bn bldngs #015",
+            ["DictKey_UnitName_457"] = "Iran SA-2 Bn bldngs #010",
+            ["DictKey_WptName_188"] = "",
+            ["DictKey_UnitName_300"] = "Secondary Destroyed HAWK E",
+            ["DictKey_GroupName_609"] = "Iran SA-2 Bn bldngs #017",
+            ["DictKey_UnitName_241"] = "Iran SA-2 Bn bldngs #018",
+            ["DictKey_UnitName_466"] = "Iran SA-2 Bn bldngs #013",
+            ["DictKey_WptName_662"] = "",
+            ["DictKey_UnitName_676"] = "Iran SA-2 Bn bldngs #018",
+            ["DictKey_UnitName_679"] = "Iran SA-2 Bn bldngs #011",
+        }, -- end of ["DEFAULT"]
+    }, -- end of ["localization"]
+    ["theatre"] = "PersianGulf",
+    ["desc"] = "",
+} -- end of staticTemplate
