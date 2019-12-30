@@ -1,6 +1,6 @@
 metadata = {
 	["rank"]     = 2,
 	["objtype"]  = "ammodump",
-	["priority"] = 1,
+
 	["base"]     = nil,
 }
