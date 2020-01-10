@@ -1245,5 +1245,13 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "PersianGulf",
-    ["desc"] = "",
+    ["desc"] = "%LOCATIONMETHOD% aircraft on the ramp at Khasab, %LOCATION%.\
+\
+Primary Objectives: Destroy the three MiG-21 Fishbeds on the ramp.\
+\
+Secondary Objectives: Nil.\
+\
+Recommended Pilots: 2\
+\
+Recommended Ordnance: Precision or unguided munitions - pilot discretion.",
 } -- end of staticTemplate

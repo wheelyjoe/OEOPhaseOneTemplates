@@ -593,5 +593,13 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "PersianGulf",
-    ["desc"] = "",
+    ["desc"] = "%LOCATIONMETHOD% an Iranian EWR site at %LOCATION%.\
+\
+Primary Objectives: Destroy the RADAR site and supporting infrastructure.\
+\
+Secondary Objectives: Nil.\
+\
+Recommended Pilots: 2\
+\
+Recommended Ordnance: Precision guided standoff munitions, Laser / GPS guided weaponry with associated TGPs as required.",
 } -- end of staticTemplate

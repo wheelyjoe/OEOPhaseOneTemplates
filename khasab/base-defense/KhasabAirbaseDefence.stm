@@ -1023,5 +1023,13 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "PersianGulf",
-    ["desc"] = "",
+    ["desc"] = "%LOCATIONMETHOD% numerous air defence units at Khasab airfield, %LOCATION%.\
+\
+Primary Objectives: Destroy any enemy air defence sites.\
+\
+Secondary Objectives: Nil.\
+\
+Recommended Pilots: 2\
+\
+Recommended Ordnance: Long range munitions, precision or unguided weaponry.",
 } -- end of staticTemplate

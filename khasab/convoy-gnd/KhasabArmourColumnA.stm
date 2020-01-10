@@ -7414,7 +7414,7 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "PersianGulf",
-    ["desc"] = "An Iranian Armoured Section is expected to pass through %LOCATION% in around %TOT%. They must be engaged and destroyed there, while they are exposed. You will only have 10 to 15 minutes to engage them, so don't be late!\
+    ["desc"] = "An Iranian Armoured Section is expected to pass through %LOCATION% in around %TOT%. They must be engaged and destroyed there, while they are exposed. The window for engagement is 10-15 minutes\
 \
 Primary Objectives: Destroy 80% of the convoy. Prioritise the heavy armour.\
 \

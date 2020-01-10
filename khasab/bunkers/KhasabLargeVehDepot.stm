@@ -5989,5 +5989,13 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "PersianGulf",
-    ["desc"] = "",
+    ["desc"] = "%LOCATIONMETHOD% an Iranian vehicle depot, %LOCATION%\
+\
+Primary Objectives: Destroy the four large warehouses.\
+\
+Secondary Objectives: Destroy any vehicles in the AO.\
+\
+Recommended Pilots: 2\
+\
+Recommended Ordnance: Guided or unguided munitions - pilot discretion.",
 } -- end of staticTemplate
