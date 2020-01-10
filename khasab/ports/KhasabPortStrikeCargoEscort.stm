@@ -826,5 +826,13 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "PersianGulf",
-    ["desc"] = "",
+    ["desc"] = "%LOCATIONMETHOD% a convoy preparing for sail at Khasab, %LOCATION%.\
+\
+Primary Objectives: Destroy the two cargo ships.\
+\
+Secondary Objectives: Destroy any escorting warships.\
+\
+Recommended Pilots: 2\
+\
+Recommended Ordnance: Anti-ship missiles, guided munitions, or unguided bombs.",
 } -- end of staticTemplate

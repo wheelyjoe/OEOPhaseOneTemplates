@@ -1919,5 +1919,13 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "PersianGulf",
-    ["desc"] = "",
+    ["desc"] = "%LOCATIONMETHOD% have detected SHORAD at Havadarya Airbase. Required Time on Target is: %TOT%\
+\
+Primary Objectives: Destroy any SHORAD units at Havadarya Airbase.\
+\
+Secondary Objectives: Nil.\
+\
+Recommended Pilots: 2\
+\
+Recommended Ordnance: Precision or unguided munitions - pilot discretion.",
 } -- end of staticTemplate

@@ -815,5 +815,13 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "PersianGulf",
-    ["desc"] = "",
+    ["desc"] = "%LOCATIONMETHOD% an Iranian cargo vessel within the harbour at Greater Tunb, %LOCATION%.\
+\
+Primary Objectives: Destroy the cargo vessel and the warehouse located nearby.\
+\
+Secondary Objectives: Nil.\
+\
+Recommended Pilots: 2\
+\
+Recommended Ordnance: Guided or unguided munitions - pilot discretion.",
 } -- end of staticTemplate

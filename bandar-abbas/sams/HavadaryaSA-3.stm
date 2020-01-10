@@ -1192,5 +1192,13 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "PersianGulf",
-    ["desc"] = "",
+    ["desc"] = "%LOCATIONMETHOD% an SA-3 site at %LOCATION%.\
+\
+Primary Objectives: Destroy the SA-3 emplacement and any supporting infrastructure.\
+\
+Secondary Objectives: Nil.\
+\
+Recommended Pilots: 2-4\
+\
+Recommended Ordnance: Anti-radiation missiles (AGM-88C etc.), long range standoff weaponry (JSOW etc.).",
 } -- end of staticTemplate
