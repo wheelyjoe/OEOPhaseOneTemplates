@@ -1,0 +1,551 @@
+staticTemplate = 
+{
+    ["coalition"] = 
+    {
+        ["blue"] = 
+        {
+            ["name"] = "blue",
+            ["country"] = 
+            {
+                [1] = 
+                {
+                    ["id"] = 21,
+                    ["name"] = "Australia",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["id"] = 11,
+                    ["name"] = "Belgium",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["id"] = 25,
+                    ["name"] = "Bulgaria",
+                }, -- end of [3]
+                [4] = 
+                {
+                    ["id"] = 8,
+                    ["name"] = "Canada",
+                }, -- end of [4]
+                [5] = 
+                {
+                    ["id"] = 28,
+                    ["name"] = "Croatia",
+                }, -- end of [5]
+                [6] = 
+                {
+                    ["id"] = 26,
+                    ["name"] = "Czech Republic",
+                }, -- end of [6]
+                [7] = 
+                {
+                    ["id"] = 13,
+                    ["name"] = "Denmark",
+                }, -- end of [7]
+                [8] = 
+                {
+                    ["id"] = 5,
+                    ["name"] = "France",
+                }, -- end of [8]
+                [9] = 
+                {
+                    ["id"] = 16,
+                    ["name"] = "Georgia",
+                }, -- end of [9]
+                [10] = 
+                {
+                    ["id"] = 6,
+                    ["name"] = "Germany",
+                }, -- end of [10]
+                [11] = 
+                {
+                    ["id"] = 15,
+                    ["name"] = "Israel",
+                }, -- end of [11]
+                [12] = 
+                {
+                    ["id"] = 20,
+                    ["name"] = "Italy",
+                }, -- end of [12]
+                [13] = 
+                {
+                    ["id"] = 12,
+                    ["name"] = "Norway",
+                }, -- end of [13]
+                [14] = 
+                {
+                    ["id"] = 73,
+                    ["name"] = "Oman",
+                }, -- end of [14]
+                [15] = 
+                {
+                    ["id"] = 39,
+                    ["name"] = "Pakistan",
+                }, -- end of [15]
+                [16] = 
+                {
+                    ["id"] = 40,
+                    ["name"] = "Poland",
+                }, -- end of [16]
+                [17] = 
+                {
+                    ["id"] = 72,
+                    ["name"] = "Qatar",
+                }, -- end of [17]
+                [18] = 
+                {
+                    ["id"] = 45,
+                    ["name"] = "South Korea",
+                }, -- end of [18]
+                [19] = 
+                {
+                    ["id"] = 9,
+                    ["name"] = "Spain",
+                }, -- end of [19]
+                [20] = 
+                {
+                    ["id"] = 46,
+                    ["name"] = "Sweden",
+                }, -- end of [20]
+                [21] = 
+                {
+                    ["id"] = 10,
+                    ["name"] = "The Netherlands",
+                }, -- end of [21]
+                [22] = 
+                {
+                    ["id"] = 3,
+                    ["name"] = "Turkey",
+                }, -- end of [22]
+                [23] = 
+                {
+                    ["id"] = 4,
+                    ["name"] = "UK",
+                }, -- end of [23]
+                [24] = 
+                {
+                    ["id"] = 1,
+                    ["name"] = "Ukraine",
+                }, -- end of [24]
+                [25] = 
+                {
+                    ["id"] = 74,
+                    ["name"] = "United Arab Emirates",
+                }, -- end of [25]
+                [26] = 
+                {
+                    ["id"] = 2,
+                    ["name"] = "USA",
+                }, -- end of [26]
+            }, -- end of ["country"]
+        }, -- end of ["blue"]
+        ["red"] = 
+        {
+            ["name"] = "red",
+            ["country"] = 
+            {
+                [1] = 
+                {
+                    ["id"] = 18,
+                    ["name"] = "Abkhazia",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["id"] = 24,
+                    ["name"] = "Belarus",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["id"] = 27,
+                    ["name"] = "China",
+                }, -- end of [3]
+                [4] = 
+                {
+                    ["id"] = 34,
+                    ["vehicle"] = 
+                    {
+                        ["group"] = 
+                        {
+                            [1] = 
+                            {
+                                ["visible"] = false,
+                                ["tasks"] = 
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["route"] = 
+                                {
+                                    ["spans"] = 
+                                    {
+                                    }, -- end of ["spans"]
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 2,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 0,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = 682.08344668928,
+                                            ["x"] = 3497.9964953647,
+                                            ["name"] = "DictKey_WptName_99",
+                                            ["ETA_locked"] = true,
+                                            ["speed"] = 5.5555555555556,
+                                            ["action"] = "Off Road",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 1512953,
+                                ["hidden"] = true,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["type"] = "Hawk pcp",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 4899665,
+                                        ["skill"] = "High",
+                                        ["y"] = 682.08344668928,
+                                        ["x"] = 3497.9964953647,
+                                        ["name"] = "DictKey_UnitName_98",
+                                        ["heading"] = 0,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [1]
+                                    [2] = 
+                                    {
+                                        ["type"] = "Hawk sr",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 4899666,
+                                        ["skill"] = "High",
+                                        ["y"] = 608.59285260114,
+                                        ["x"] = 3501.4146625316,
+                                        ["name"] = "DictKey_UnitName_97",
+                                        ["heading"] = 0,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [2]
+                                    [3] = 
+                                    {
+                                        ["type"] = "Hawk cwar",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 4899667,
+                                        ["skill"] = "High",
+                                        ["y"] = 752.15587361053,
+                                        ["x"] = 3501.4146625316,
+                                        ["name"] = "DictKey_UnitName_96",
+                                        ["heading"] = 0,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [3]
+                                    [4] = 
+                                    {
+                                        ["type"] = "Hawk tr",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 4899668,
+                                        ["skill"] = "High",
+                                        ["y"] = 682.65314121709,
+                                        ["x"] = 3418.8089559984,
+                                        ["name"] = "DictKey_UnitName_95",
+                                        ["heading"] = 3.8397243543875,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [4]
+                                    [5] = 
+                                    {
+                                        ["type"] = "Hawk ln",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 4899669,
+                                        ["skill"] = "High",
+                                        ["y"] = 758.42251341649,
+                                        ["x"] = 3363.5485868004,
+                                        ["name"] = "DictKey_UnitName_94",
+                                        ["heading"] = 4.7123889803847,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [5]
+                                    [6] = 
+                                    {
+                                        ["type"] = "Hawk ln",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 4899670,
+                                        ["skill"] = "High",
+                                        ["y"] = 618.27765957399,
+                                        ["x"] = 3362.9788922726,
+                                        ["name"] = "DictKey_UnitName_93",
+                                        ["heading"] = 3.8397243543875,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [6]
+                                    [7] = 
+                                    {
+                                        ["type"] = "Hawk ln",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 4899671,
+                                        ["skill"] = "High",
+                                        ["y"] = 684.93191932835,
+                                        ["x"] = 3310.5669957136,
+                                        ["name"] = "DictKey_UnitName_92",
+                                        ["heading"] = 2.6179938779915,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [7]
+                                    [8] = 
+                                    {
+                                        ["type"] = "Hawk tr",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 4899672,
+                                        ["skill"] = "High",
+                                        ["y"] = 683.22283574491,
+                                        ["x"] = 3579.4628128423,
+                                        ["name"] = "DictKey_UnitName_91",
+                                        ["heading"] = 0.69813170079773,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [8]
+                                    [9] = 
+                                    {
+                                        ["type"] = "Hawk ln",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 4899673,
+                                        ["skill"] = "High",
+                                        ["y"] = 736.77412135952,
+                                        ["x"] = 3633.0140984569,
+                                        ["name"] = "DictKey_UnitName_90",
+                                        ["heading"] = 5.7595865315813,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [9]
+                                    [10] = 
+                                    {
+                                        ["type"] = "Hawk ln",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 4899674,
+                                        ["skill"] = "High",
+                                        ["y"] = 679.2349740502,
+                                        ["x"] = 3678.5896606821,
+                                        ["name"] = "DictKey_UnitName_89",
+                                        ["heading"] = 0.69813170079773,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [10]
+                                    [11] = 
+                                    {
+                                        ["type"] = "Hawk ln",
+                                        ["transportable"] = 
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["unitId"] = 4899675,
+                                        ["skill"] = "High",
+                                        ["y"] = 617.13827051836,
+                                        ["x"] = 3628.4565422344,
+                                        ["name"] = "DictKey_UnitName_88",
+                                        ["heading"] = 1.5707963267949,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [11]
+                                }, -- end of ["units"]
+                                ["y"] = 682.08344668928,
+                                ["x"] = 3497.9964953647,
+                                ["name"] = "DictKey_GroupName_87",
+                                ["start_time"] = 0,
+                            }, -- end of [1]
+                        }, -- end of ["group"]
+                    }, -- end of ["vehicle"]
+                    ["name"] = "Iran",
+                }, -- end of [4]
+                [5] = 
+                {
+                    ["id"] = 35,
+                    ["name"] = "Iraq",
+                }, -- end of [5]
+                [6] = 
+                {
+                    ["id"] = 37,
+                    ["name"] = "Kazakhstan",
+                }, -- end of [6]
+                [7] = 
+                {
+                    ["id"] = 38,
+                    ["name"] = "North Korea",
+                }, -- end of [7]
+                [8] = 
+                {
+                    ["id"] = 0,
+                    ["name"] = "Russia",
+                }, -- end of [8]
+                [9] = 
+                {
+                    ["id"] = 43,
+                    ["name"] = "Serbia",
+                }, -- end of [9]
+                [10] = 
+                {
+                    ["id"] = 19,
+                    ["name"] = "South Ossetia",
+                }, -- end of [10]
+                [11] = 
+                {
+                    ["id"] = 47,
+                    ["name"] = "Syria",
+                }, -- end of [11]
+                [12] = 
+                {
+                    ["id"] = 7,
+                    ["name"] = "USAF Aggressors",
+                }, -- end of [12]
+            }, -- end of ["country"]
+        }, -- end of ["red"]
+    }, -- end of ["coalition"]
+    ["name"] = "KhasabStratHawkB",
+    ["requiredModules"] = 
+    {
+    }, -- end of ["requiredModules"]
+    ["localization"] = 
+    {
+        ["DEFAULT"] = 
+        {
+            ["DictKey_UnitName_22"] = "Primary Destroyed HAWK A",
+            ["DictKey_UnitName_89"] = "Secondary Destroyed HAWK #001",
+            ["DictKey_UnitName_52"] = "Primary Destroyed SA-6 #004",
+            ["DictKey_UnitName_85"] = "Primary Destroyed HAWK A",
+            ["DictKey_WptName_73"] = "",
+            ["DictKey_WptName_86"] = "",
+            ["DictKey_UnitName_26"] = "Secondary Destroyed HAWK #005",
+            ["DictKey_UnitName_62"] = "Unit #004",
+            ["DictKey_UnitName_80"] = "Secondary Destroyed HAWK #003",
+            ["DictKey_UnitName_32"] = "Secondary Destroyed HAWK",
+            ["DictKey_UnitName_94"] = "Secondary Destroyed HAWK #005",
+            ["DictKey_GroupName_47"] = "Khasab SA-6",
+            ["DictKey_UnitName_39"] = "",
+            ["DictKey_UnitName_7"] = "Unit #139",
+            ["DictKey_UnitName_12"] = "Secondary Destroyed HAWK G",
+            ["DictKey_UnitName_45"] = "",
+            ["DictKey_WptName_46"] = "",
+            ["DictKey_UnitName_9"] = "Unit #137",
+            ["DictKey_UnitName_58"] = "Unit #002",
+            ["DictKey_UnitName_44"] = "",
+            ["DictKey_UnitName_90"] = "Secondary Destroyed HAWK #002",
+            ["DictKey_UnitName_97"] = "Primary Destroyed HAWK",
+            ["DictKey_UnitName_76"] = "Secondary Destroyed HAWK #001",
+            ["DictKey_UnitName_75"] = "Secondary Destroyed HAWK",
+            ["DictKey_GroupName_6"] = "Khasab HAWK",
+            ["DictKey_UnitName_36"] = "",
+            ["DictKey_descriptionText_1"] = "",
+            ["DictKey_UnitName_55"] = "Unit #008",
+            ["DictKey_UnitName_71"] = "Primary Destroyed SA-6 #005",
+            ["DictKey_UnitName_13"] = "Secondary Destroyed HAWK F",
+            ["DictKey_UnitName_88"] = "Secondary Destroyed HAWK",
+            ["DictKey_WptName_99"] = "",
+            ["DictKey_UnitName_10"] = "Secondary Destroyed HAWK C",
+            ["DictKey_UnitName_54"] = "Unit #007",
+            ["DictKey_UnitName_42"] = "",
+            ["DictKey_UnitName_14"] = "Secondary Destroyed HAWK D",
+            ["DictKey_UnitName_83"] = "Secondary Destroyed HAWK A",
+            ["DictKey_UnitName_51"] = "Primary Destroyed SA-6 #003",
+            ["DictKey_UnitName_25"] = "Primary Destroyed HAWK #001",
+            ["DictKey_UnitName_11"] = "Secondary Destroyed HAWK B",
+            ["DictKey_UnitName_78"] = "Primary Destroyed HAWK B",
+            ["DictKey_UnitName_28"] = "Secondary Destroyed HAWK #004",
+            ["DictKey_GroupName_74"] = "Khasab HAWK",
+            ["DictKey_UnitName_43"] = "",
+            ["DictKey_WptName_57"] = "",
+            ["DictKey_UnitName_49"] = "Primary Destroyed SA-6 #002",
+            ["DictKey_UnitName_68"] = "Primary Destroyed SA-6 #005",
+            ["DictKey_UnitName_92"] = "Secondary Destroyed HAWK #004",
+            ["DictKey_UnitName_48"] = "Unit #001",
+            ["DictKey_UnitName_19"] = "Primary Destroyed HAWK A",
+            ["DictKey_descriptionRedTask_2"] = "",
+            ["DictKey_UnitName_60"] = "Unit #003",
+            ["DictKey_UnitName_38"] = "",
+            ["DictKey_UnitName_72"] = "Unit #005",
+            ["DictKey_UnitName_17"] = "Secondary Destroyed HAWK A",
+            ["DictKey_UnitName_31"] = "Secondary Destroyed HAWK #001",
+            ["DictKey_UnitName_82"] = "Primary Destroyed HAWK #001",
+            ["DictKey_UnitName_35"] = "",
+            ["DictKey_UnitName_37"] = "",
+            ["DictKey_GroupName_21"] = "Khasab HAWK",
+            ["DictKey_WptName_33"] = "",
+            ["DictKey_UnitName_56"] = "Primary Destroyed SA-6",
+            ["DictKey_UnitName_67"] = "Unit #005",
+            ["DictKey_UnitName_16"] = "Primary Destroyed HAWK C",
+            ["DictKey_UnitName_24"] = "Secondary Destroyed HAWK A",
+            ["DictKey_UnitName_53"] = "Unit #006",
+            ["DictKey_UnitName_23"] = "Primary Destroyed HAWK",
+            ["DictKey_UnitName_91"] = "Primary Destroyed HAWK B",
+            ["DictKey_UnitName_27"] = "Secondary Destroyed HAWK #003",
+            ["DictKey_UnitName_18"] = "Primary Destroyed HAWK B",
+            ["DictKey_UnitName_79"] = "Secondary Destroyed HAWK #004",
+            ["DictKey_UnitName_70"] = "Primary Destroyed SA-6 #005",
+            ["DictKey_UnitName_41"] = "",
+            ["DictKey_UnitName_98"] = "Primary Destroyed HAWK A",
+            ["DictKey_UnitName_64"] = "Primary Destroyed SA-6 #005",
+            ["DictKey_WptName_20"] = "",
+            ["DictKey_GroupName_34"] = "",
+            ["DictKey_UnitName_66"] = "Unit #005",
+            ["DictKey_UnitName_15"] = "Secondary Destroyed HAWK E",
+            ["DictKey_UnitName_93"] = "Secondary Destroyed HAWK #003",
+            ["DictKey_UnitName_69"] = "Primary Destroyed SA-6 #005",
+            ["DictKey_GroupName_63"] = "Khasab SA-6 #001",
+            ["DictKey_UnitName_40"] = "",
+            ["DictKey_UnitName_81"] = "Secondary Destroyed HAWK #005",
+            ["DictKey_UnitName_95"] = "Primary Destroyed HAWK #001",
+            ["DictKey_UnitName_77"] = "Secondary Destroyed HAWK #002",
+            ["DictKey_UnitName_65"] = "Unit #005",
+            ["DictKey_descriptionBlueTask_3"] = "",
+            ["DictKey_UnitName_29"] = "Primary Destroyed HAWK B",
+            ["DictKey_UnitName_50"] = "Primary Destroyed SA-6 #001",
+            ["DictKey_GroupName_59"] = "Khasab SA-6 Support",
+            ["DictKey_UnitName_96"] = "Secondary Destroyed HAWK A",
+            ["DictKey_descriptionNeutralsTask_4"] = "",
+            ["DictKey_WptName_61"] = "",
+            ["DictKey_UnitName_30"] = "Secondary Destroyed HAWK #002",
+            ["DictKey_UnitName_84"] = "Primary Destroyed HAWK",
+            ["DictKey_sortie_5"] = "",
+            ["DictKey_GroupName_87"] = "Khasab HAWK",
+            ["DictKey_UnitName_8"] = "Unit #138",
+        }, -- end of ["DEFAULT"]
+    }, -- end of ["localization"]
+    ["theatre"] = "PersianGulf",
+    ["desc"] = "%LOCATIONMETHOD% an active SAM site within the vicinity of Khasab, %LOCATION%.\
+\
+Primary Objectives: Put the SAM site out of action by destroying its Radar Elements.\
+\
+Secondary Objectives: Render the SAM permanently unusable by destroying all the remaining elements, including all launchers.\
+\
+Recommended Pilots: 2\
+\
+Recommended Ordnance: Anti-Radiation Missiles, precision guided long range weapons (I.E. JSOW, AGM-65).",
+} -- end of staticTemplate
