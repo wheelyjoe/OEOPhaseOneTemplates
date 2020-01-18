@@ -2406,5 +2406,13 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "PersianGulf",
-    ["desc"] = "",
+    ["desc"] = "%LOCATIONMETHOD% an active SA-10 SAM site within the vicinity of Bandar-e-Jask, %LOCATION%.\
+\
+Primary Objectives: Destroy the RADAR elements of the SA-10 site.\
+\
+Secondary Objectives: Destroy any remaining infrastructure related to the SAM site. Survive.\
+\
+Recommended Pilots: 4\
+\
+Recommended Ordnance: Anti-Radiation Missiles, precision guided long range weapons (I.E. JSOW, AGM-65).",
 } -- end of staticTemplate

@@ -1473,5 +1473,13 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "PersianGulf",
-    ["desc"] = "",
+    ["desc"] = "%LOCATIONMETHOD% have detected SHORAD at Bandar-e-Jask Airbase, %LOCATION%\
+\
+Primary Objectives: Destroy the SHORAD at Bandar-e-Jask Airbase.\
+\
+Secondary Objectives: Nil.\
+\
+Recommended Pilots: 2\
+\
+Recommended Ordnance: Precision or unguided munitions - pilot discretion.",
 } -- end of staticTemplate

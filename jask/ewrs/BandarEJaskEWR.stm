@@ -527,5 +527,13 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "PersianGulf",
-    ["desc"] = "",
+    ["desc"] = "%LOCATIONMETHOD% an EWR site in the vicinity of Bandar-e-Jask, %LOCATION%.\
+\
+Primary Objectives: Destroy the two EWRs.\
+\
+Secondary Objectives: Nil.\
+\
+Recommended Pilots: 2\
+\
+Recommended Ordnance: ARMs, long range standoff munitions (JSOW etc.).",
 } -- end of staticTemplate

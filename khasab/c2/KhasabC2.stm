@@ -1057,7 +1057,7 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "PersianGulf",
-    ["desc"] = "%LOCATIONMETHOD% Iranian C2 facilities in the Khasab AO, %LOCATION%.\
+    ["desc"] = "%LOCATIONMETHOD% Iranian C2 facilities at the Port in Khasab, %LOCATION%.\
 \
 Primary Objectives: Destroy the red communications tower.\
 \

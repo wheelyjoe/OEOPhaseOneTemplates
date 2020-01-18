@@ -1032,7 +1032,7 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "PersianGulf",
-    ["desc"] = "%LOCATIONMETHOD% fuel dump at Bandar-E-Jask, %LOCATION%.\
+    ["desc"] = "%LOCATIONMETHOD% a fuel dump at Bandar-e-Jask, %LOCATION%.\
 \
 Primary Objectives: Destroy the grey, upright storage tanks.\
 \
@@ -1040,5 +1040,5 @@ Secondary Objectives: Destroy any ground embedded storage tanks.\
 \
 Recommended Pilots: 2\
 \
-Recommended Ordnance: Precision or unguided munitions.",
+Recommended Ordnance: Precision or unguided munitions - pilot discretion.",
 } -- end of staticTemplate

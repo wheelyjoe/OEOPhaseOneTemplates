@@ -574,5 +574,13 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "PersianGulf",
-    ["desc"] = "",
+    ["desc"] = "%LOCATIONMETHOD% a convoy marshalling within the port at %LOCATION%.\
+\
+Primary Objectives: Destroy the tanker within the port.\
+\
+Secondary Objectives: Destroy any escorting vessels.\
+\
+Recommended Pilots: 2\
+\
+Recommended Ordnance: Precision or unguided munitions - pilot discretion",
 } -- end of staticTemplate

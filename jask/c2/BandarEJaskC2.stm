@@ -1988,5 +1988,13 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "PersianGulf",
-    ["desc"] = "",
+    ["desc"] = "%LOCATIONMETHOD% Iranian C2 facilities within the Bandar-e-Jask AO, %LOCATION%.\
+\
+Primary Objectives: Destroy the main bunker with antennae.\
+\
+Secondary Objectives: Destroy the large comms tower, and accompanying T shaped structure.\
+\
+Recommended Pilots: 2\
+\
+Recommended Ordnance: Precision or unguided munitions - pilot discretion",
 } -- end of staticTemplate

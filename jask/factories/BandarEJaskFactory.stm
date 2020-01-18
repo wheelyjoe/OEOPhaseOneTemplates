@@ -1313,5 +1313,13 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "PersianGulf",
-    ["desc"] = "",
+    ["desc"] = "%LOCATIONMETHOD% a factory in the vicinity of Bandar-e-Jask, %LOCATION%.\
+\
+Primary Objectives: Destroy the main factory building, along with the acompanying smoke stacks and warehouse.\
+\
+Secondary Objectives: Destroy the white warehouses behind the facotry.\
+\
+Recommended Pilots: 2\
+\
+Recommended Ordnance: Precision or unguided munitions - pilot discretion",
 } -- end of staticTemplate
