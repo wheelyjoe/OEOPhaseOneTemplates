@@ -1315,7 +1315,7 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "PersianGulf",
-    ["desc"] = "%LOCATIONMETHOD% an active SA-2 Guideline site on Abu Musa Island, %LOCATION%.\
+    ["desc"] = "%LOCATIONMETHOD% an active SA-2 Guideline site at Bandar-e-Jask, %LOCATION%.\
 \
 Primary Objectives: Destroy the Fan-Song Radar site at the SA-2 Site.\
 \
