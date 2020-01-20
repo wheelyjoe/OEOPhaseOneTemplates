@@ -1,6 +1,6 @@
 metadata = {
 	["rank"]     = 1,
 	["objtype"]  = "sam",
-	["exclusion"] = "TunbSAM",
+
 	["base"]     = nil,
 }

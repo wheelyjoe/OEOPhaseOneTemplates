@@ -1195,7 +1195,7 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "PersianGulf",
-    ["desc"] = "%LOCATIONMETHOD% fuel dump on Tunb Kochak Island, at %LOCATION%.\
+    ["desc"] = "%LOCATIONMETHOD% a fuel dump on Tunb Kochak Island, at %LOCATION%, south of the airport.\
 \
 Primary Objectives: Destroy the grey, upright storage tanks.\
 \

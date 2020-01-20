@@ -1291,7 +1291,7 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "PersianGulf",
-    ["desc"] = "%LOCATIONMETHOD% checkpoint at %LOCATION%.\
+    ["desc"] = "%LOCATIONMETHOD% an Iranian checkpoint at %LOCATION%, just north of the main ramp of the airport.\
 \
 Primary Objectives: Destroy the two outpost buildings and any enemy armour.\
 \

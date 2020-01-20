@@ -995,7 +995,7 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "PersianGulf",
-    ["desc"] = "%LOCATIONMETHOD% fuel dump on Sirri Island, at %LOCATION%.\
+    ["desc"] = "%LOCATIONMETHOD% a fuel dump used by Iranian forces next to the harbour on Sirri Island, %LOCATION%.\
 \
 Primary Objectives: Destroy the grey, upright storage tanks.\
 \

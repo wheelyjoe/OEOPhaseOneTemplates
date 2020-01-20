@@ -1242,7 +1242,7 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "PersianGulf",
-    ["desc"] = "%LOCATIONMETHOD% fuel dump on Greater Tunb Island, at %LOCATION%.\
+    ["desc"] = "%LOCATIONMETHOD% fuel dump on Greater Tunb Island, at %LOCATION%, just north of the airfield's main ramp.\
 \
 Primary Objectives: Destroy the grey, upright storage tanks.\
 \

@@ -1135,7 +1135,7 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "PersianGulf",
-    ["desc"] = "%LOCATIONMETHOD% fuel dump on Abu Musa, at %LOCATION%.\
+    ["desc"] = "%LOCATIONMETHOD% an Iranian fuel dump on Abu Musa, north of the airfield, %LOCATION%.\
 \
 Primary Objectives: Destroy the grey, upright storage tanks.\
 \

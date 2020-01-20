@@ -1077,9 +1077,9 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "PersianGulf",
-    ["desc"] = "%LOCATIONMETHOD% Iranian Ammo Dump on Sirri Island. Find and destroy the bunkers and the ordnance within.\
+    ["desc"] = "%LOCATIONMETHOD% Iranian Ammo Dump on Greater Tunb, %LOCATION%, north-west of the airfield. Find and destroy the bunkers and the ordnance within.\
 \
-Primary Objectives: Destroy the large armoured bunker. It is heavily fortified, so accuracy is key.\
+Primary Objectives: Destroy the large armoured bunker.\
 \
 Secondary Objectives: Nil.\
 \
