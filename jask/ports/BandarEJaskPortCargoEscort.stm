@@ -574,7 +574,7 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "PersianGulf",
-    ["desc"] = "%LOCATIONMETHOD% a convoy marshalling within the port at %LOCATION%.\
+    ["desc"] = "%LOCATIONMETHOD% a convoy marshalling within the port at Bandar-e-Jask, %LOCATION%.\
 \
 Primary Objectives: Destroy the tanker within the port.\
 \
@@ -582,5 +582,5 @@ Secondary Objectives: Destroy any escorting vessels.\
 \
 Recommended Pilots: 2\
 \
-Recommended Ordnance: Precision or unguided munitions - pilot discretion",
+Recommended Ordnance: Pilot discretion",
 } -- end of staticTemplate

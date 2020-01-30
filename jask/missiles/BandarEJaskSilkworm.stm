@@ -4827,7 +4827,7 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "PersianGulf",
-    ["desc"] = "%LOCATIONMETHOD% an active Silkworm site within the vicinity of Bandar-e-Jask, %LOCATION%.\
+    ["desc"] = "%LOCATIONMETHOD% an active Silkworm site within the vicinity of Bandar-e-Jask, %LOCATION%, north of the airport.\
 \
 Primary Objectives: Destroy the two RADAR elements of the Silkworm site.\
 \
@@ -4835,5 +4835,5 @@ Secondary Objectives: Destroy the missile launchers of the site.\
 \
 Recommended Pilots: 2\
 \
-Recommended Ordnance: Precision or unguided munitions - pilot discretion.",
+Recommended Ordnance: Pilot discretion.",
 } -- end of staticTemplate

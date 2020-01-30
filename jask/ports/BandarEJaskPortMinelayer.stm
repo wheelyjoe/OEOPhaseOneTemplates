@@ -573,13 +573,13 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "PersianGulf",
-    ["desc"] = "%LOCATIONMETHOD% a minelaying vessel at %LOCATION%.\
+    ["desc"] = "%LOCATIONMETHOD% a minelaying vessel at %LOCATION%, within the port at Bandar-e-Jask.\
 \
 Primary Objectives: Destroy the minelaying vessel within the port.\
 \
-Secondary Objectives: Nil.\
+Secondary Objectives: N/A.\
 \
 Recommended Pilots: 2\
 \
-Recommended Ordnance: Precision or unguided munitions.",
+Recommended Ordnance: Pilot discretion.",
 } -- end of staticTemplate

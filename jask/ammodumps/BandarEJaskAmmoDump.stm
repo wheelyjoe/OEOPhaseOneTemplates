@@ -941,9 +941,9 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "PersianGulf",
-    ["desc"] = "NATO Reconaissance elements have located an Iranian Ammo Dump %LOCATION%. Find and destroy the bunkers and the ordnance within.\
+    ["desc"] = "%LOCATIONMETHOD% an Iranian Ammo Dump %LOCATION%, east of the Bandar-e-Jask airport. Find and destroy the bunkers and the ordnance within.\
 \
-Primary Objectives: Destroy the large, armoured bunker. It is heavily fortified, so accuracy is key.\
+Primary Objectives: Destroy the large, armoured bunker.\
 \
 Secondary Objectives: Destroy the two smaller, white hangars.\
 \
