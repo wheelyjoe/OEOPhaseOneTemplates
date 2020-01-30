@@ -819,9 +819,9 @@ staticTemplate =
 \
 Primary Objectives: Destroy the cargo vessel and the warehouse located nearby.\
 \
-Secondary Objectives: Nil.\
+Secondary Objectives: N/A.\
 \
 Recommended Pilots: 2\
 \
-Recommended Ordnance: Guided or unguided munitions - pilot discretion.",
+Recommended Ordnance: Pilot discretion.",
 } -- end of staticTemplate
