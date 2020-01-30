@@ -1923,9 +1923,9 @@ staticTemplate =
 \
 Primary Objectives: Destroy any SHORAD units at Havadarya Airbase.\
 \
-Secondary Objectives: Nil.\
+Secondary Objectives: N/A.\
 \
 Recommended Pilots: 2\
 \
-Recommended Ordnance: Precision or unguided munitions - pilot discretion.",
+Recommended Ordnance: Pilot discretion.",
 } -- end of staticTemplate
