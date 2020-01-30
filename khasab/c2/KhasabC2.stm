@@ -1057,7 +1057,7 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "PersianGulf",
-    ["desc"] = "%LOCATIONMETHOD% Iranian C2 facilities at the Port in Khasab, %LOCATION%.\
+    ["desc"] = "%LOCATIONMETHOD% Iranian C2 facilities in the Khasab AO, %LOCATION%, just south east of the harbour.\
 \
 Primary Objectives: Destroy the red communications tower.\
 \
@@ -1065,5 +1065,5 @@ Secondary Objectives: Destroy the green bunker nearby.\
 \
 Recommended Pilots: 2\
 \
-Recommended Ordnance: Guided or unguided munitions - pilot discretion.",
+Recommended Ordnance: Pilot discretion.",
 } -- end of staticTemplate

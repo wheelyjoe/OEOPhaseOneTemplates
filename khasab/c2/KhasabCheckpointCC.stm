@@ -2395,13 +2395,13 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "PersianGulf",
-    ["desc"] = "%LOCATIONMETHOD% a large Iranian Checkpoint defending C2 facilities on the main road into Khasab, %LOCATION%.\
+    ["desc"] = "%LOCATIONMETHOD% an Iranian checkpoint defending C2 facilities at Khasab, %LOCATION%, just south east of the southern end of the Khasab runway.\
 \
 Primary Objectives: Destroy the red communications tower and green bunker.\
 \
-Secondary Objectives: Destroy the administrative buildings on site: 2 T shape buildings, and the two story building opposite the bunker.\
+Secondary Objectives: Destroy the administrative buildings on site: 2 T shape buildings, plus an additional nearby house at the northern end of the checkpoint.\
 \
 Recommended Pilots: 2\
 \
-Recommended Ordnance: Guided or unguided munitions - pilot discretion.",
+Recommended Ordnance: Pilot discretion.",
 } -- end of staticTemplate

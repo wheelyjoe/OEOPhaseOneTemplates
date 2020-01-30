@@ -1458,13 +1458,13 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "PersianGulf",
-    ["desc"] = "%LOCATIONMETHOD% checkpoint at %LOCATION%.\
+    ["desc"] = "%LOCATIONMETHOD% checkpoint at %LOCATION%, at the northern tip of the Arabian peninsula.\
 \
 Primary Objectives: Destroy the two outpost buildings and any enemy armour.\
 \
-Secondary Objectives: Nil.\
+Secondary Objectives: N/A.\
 \
 Recommended Pilots: 2\
 \
-Recommended Ordnance: Precision or unguided munitions - pilot discretion.",
+Recommended Ordnance: Pilot discretion.",
 } -- end of staticTemplate

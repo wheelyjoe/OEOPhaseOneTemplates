@@ -961,7 +961,7 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "PersianGulf",
-    ["desc"] = "%LOCATIONMETHOD% an Iranian Ammo Dump in the vicinity of Khasab, %LOCATION%. Find and destroy the bunkers and the ordnance within.\
+    ["desc"] = "%LOCATIONMETHOD% an Iranian Ammo Dump in the Khasab region, %LOCATION%, north west of the airfield, near Harf Ghabi  . Find and destroy the bunkers and the ordnance within.\
 \
 Primary Objectives: Destroy the large, armoured bunker. .\
 \
