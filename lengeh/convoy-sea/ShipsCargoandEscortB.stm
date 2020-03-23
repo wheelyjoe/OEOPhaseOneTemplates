@@ -937,5 +937,13 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "PersianGulf",
-    ["desc"] = "",
+    ["desc"] = "%LOCATIONMETHOD% a convoy sailing west in the Straights of Hormuz, currently estimated to be at %LOCATION%. Required Time on Target is: %TOT%\
+\
+Primary Objectives: Destroy the two cargo ships.\
+\
+Secondary Objectives: Destroy the escorting warships.\
+\
+Recommended Pilots: 2\
+\
+Recommended Ordnance: Anti-ship missiles, guided munitions, or unguided bombs.",
 } -- end of staticTemplate

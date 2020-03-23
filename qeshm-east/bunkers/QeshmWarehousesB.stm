@@ -1115,5 +1115,13 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "PersianGulf",
-    ["desc"] = "",
+    ["desc"] = "%LOCATIONMETHOD% an Iranian warehouse on the Northern Tip of Qeshm Island, south of Bandar-e-Pol, %LOCATION%.\
+\
+Primary Objectives: Destroy the two brown bunker and four white warehouses.\
+\
+Secondary Objectives: Maximise damage to the remaining bunkers.\
+\
+Recommended Pilots: 2\
+\
+Recommended Ordnance: Pilot discretion.",
 } -- end of staticTemplate

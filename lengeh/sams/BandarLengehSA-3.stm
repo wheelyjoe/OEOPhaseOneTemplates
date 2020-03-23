@@ -1192,5 +1192,13 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "PersianGulf",
-    ["desc"] = "",
+    ["desc"] = "%LOCATIONMETHOD% an active SA-3 Goa SAM site within the vicinity of Bandar-Lengeh, %LOCATION%.\
+\
+Primary Objectives: Destroy the RADAR elements of the SA-3 site.\
+\
+Secondary Objectives: Destroy any remaining infrastructure related to the SAM site.\
+\
+Recommended Pilots: 2\
+\
+Recommended Ordnance: Anti-Radiation Missiles, precision guided long range weapons (I.E. JSOW, AGM-65).",
 } -- end of staticTemplate

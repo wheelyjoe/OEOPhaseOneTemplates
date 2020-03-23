@@ -1081,5 +1081,13 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "PersianGulf",
-    ["desc"] = "",
+    ["desc"] = "%LOCATIONMETHOD% Iranian C2 facilities within Dargahan, Qeshm Island, %LOCATION%.\
+\
+Primary Objectives: Destroy the red communications tower.\
+\
+Secondary Objectives: Destroy the green bunker nearby.\
+\
+Recommended Pilots: 2\
+\
+Recommended Ordnance: Pilot discretion.",
 } -- end of staticTemplate

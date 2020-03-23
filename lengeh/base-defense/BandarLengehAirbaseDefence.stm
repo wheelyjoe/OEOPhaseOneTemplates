@@ -1331,5 +1331,13 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "PersianGulf",
-    ["desc"] = "",
+    ["desc"] = "%LOCATIONMETHOD% numerous air defence units at Bandar-Lengeh airfield, %LOCATION%.\
+\
+Primary Objectives: Destroy any enemy air defence sites.\
+\
+Secondary Objectives: N/A.\
+\
+Recommended Pilots: 2\
+\
+Recommended Ordnance: Pilot Discretion.",
 } -- end of staticTemplate

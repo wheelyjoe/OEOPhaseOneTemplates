@@ -1192,7 +1192,7 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "PersianGulf",
-    ["desc"] = "%LOCATIONMETHOD% an SA-3 site at %LOCATION%.\
+    ["desc"] = "%LOCATIONMETHOD% an active SA-3 Goa SAM site at %LOCATION%.\
 \
 Primary Objectives: Destroy the SA-3 emplacement and any supporting infrastructure.\
 \

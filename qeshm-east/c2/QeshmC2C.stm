@@ -1112,5 +1112,13 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "PersianGulf",
-    ["desc"] = "",
+    ["desc"] = "%LOCATIONMETHOD% Iranian C2 facilities in the Qeshm AO, %LOCATION%, west of Gori, Qeshm Island.\
+\
+Primary Objectives: Destroy the red communications tower.\
+\
+Secondary Objectives: Destroy the green bunker nearby.\
+\
+Recommended Pilots: 2\
+\
+Recommended Ordnance: Pilot discretion.",
 } -- end of staticTemplate

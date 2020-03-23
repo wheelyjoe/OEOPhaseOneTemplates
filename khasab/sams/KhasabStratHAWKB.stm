@@ -539,11 +539,11 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "PersianGulf",
-    ["desc"] = "%LOCATIONMETHOD% an active SAM site within the vicinity of Khasab, %LOCATION%.\
+    ["desc"] = "%LOCATIONMETHOD% an active HAWK SAM site within the vicinity of Khasab, %LOCATION%.\
 \
-Primary Objectives: Put the SAM site out of action by destroying its Radar Elements.\
+Primary Objectives: Destroy the RADAR elements of the SAM site.\
 \
-Secondary Objectives: Render the SAM permanently unusable by destroying all the remaining elements, including all launchers.\
+Secondary Objectives: Destroy any remaining infrastructure related to the SAM site.\
 \
 Recommended Pilots: 2\
 \

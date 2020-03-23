@@ -1405,5 +1405,13 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "PersianGulf",
-    ["desc"] = "",
+    ["desc"] = "%LOCATIONMETHOD% fuel dump on Qeshm Island, %LOCATION%, south east of Gori.\
+\
+Primary Objectives: Destroy the grey, upright storage tanks.\
+\
+Secondary Objectives: Destroy any ground embedded storage tanks.\
+\
+Recommended Pilots: 2\
+\
+Recommended Ordnance: Pilot discretion.",
 } -- end of staticTemplate

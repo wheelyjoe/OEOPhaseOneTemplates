@@ -1919,5 +1919,13 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "PersianGulf",
-    ["desc"] = "",
+    ["desc"] = "%LOCATIONMETHOD% Iranian C2 facilities within the Bandar-Lengeh AO, %LOCATION%, north east of the airport, within the town.\
+\
+Primary Objectives: Destroy the main bunker with antennae.\
+\
+Secondary Objectives: Destroy the large comms tower, and accompanying T shaped structure.\
+\
+Recommended Pilots: 2\
+\
+Recommended Ordnance: Pilot discretion",
 } -- end of staticTemplate

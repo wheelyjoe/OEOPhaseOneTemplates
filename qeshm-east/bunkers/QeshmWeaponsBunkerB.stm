@@ -516,5 +516,13 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "PersianGulf",
-    ["desc"] = "",
+    ["desc"] = "%LOCATIONMETHOD% Iranian bunker on Qeshm Island, %LOCATION%.\
+\
+Primary Objectives: Destroy the large, green armoured bunker, approximately 6NM North of the airport.\
+\
+Secondary Objectives: N/A.\
+\
+Recommended Pilots: 2\
+\
+Recommended Ordnance: Heavy ordnance required for bunker targets, e.g. Mk-84s or PGM Variants.",
 } -- end of staticTemplate

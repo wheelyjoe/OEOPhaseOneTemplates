@@ -1158,5 +1158,13 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "PersianGulf",
-    ["desc"] = "",
+    ["desc"] = "%LOCATIONMETHOD% aircraft on the ramp at Bandar-Lengeh, %LOCATION%.\
+\
+Primary Objectives: Destroy the three Mi-26 Halos on the ramp.\
+\
+Secondary Objectives: N/A.
+\
+Recommended Pilots: 2\
+\
+Recommended Ordnance: Pilot discretion.",
 } -- end of staticTemplate

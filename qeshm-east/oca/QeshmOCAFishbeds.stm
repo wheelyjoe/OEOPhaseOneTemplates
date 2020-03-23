@@ -2445,5 +2445,13 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "PersianGulf",
-    ["desc"] = "",
+    ["desc"] = "%LOCATIONMETHOD% aircraft on the ramp at Qeshm Airport, %LOCATION%.\
+\
+Primary Objectives: Destroy the six MiG-21 Fishbeds on the ramp.\
+\
+Secondary Objectives: N/A.\
+\
+Recommended Pilots: 2\
+\
+Recommended Ordnance: Pilot discretion.",
 } -- end of staticTemplate

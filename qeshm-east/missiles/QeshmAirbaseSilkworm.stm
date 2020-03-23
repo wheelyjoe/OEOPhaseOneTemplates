@@ -4611,5 +4611,13 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "PersianGulf",
-    ["desc"] = "",
+    ["desc"] = "%LOCATIONMETHOD% an active Silkworm site on Qeshm Island, %LOCATION%, south of the airport.\
+\
+Primary Objectives: Destroy the two RADAR elements of the Silkworm site.\
+\
+Secondary Objectives: Destroy the missile launchers of the site.\
+\
+Recommended Pilots: 2\
+\
+Recommended Ordnance: Pilot discretion.",
 } -- end of staticTemplate

@@ -1604,5 +1604,13 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "PersianGulf",
-    ["desc"] = "",
+    ["desc"] = "%LOCATIONMETHOD% an Iranian factory on Qeshm Island, %LOCATION%, south east of the airport.\
+\
+Primary Objectives: Destroy the main factory building, associated smokestacks, and four white hangars.\
+\
+Secondary Objectives: Destroy the six storage tanks within the complex.\
+\
+Recommended Pilots: 2\
+\
+Recommended Ordnance: Pilot discretion.",
 } -- end of staticTemplate

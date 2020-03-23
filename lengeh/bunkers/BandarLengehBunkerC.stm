@@ -661,5 +661,13 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "PersianGulf",
-    ["desc"] = "",
+    ["desc"] = "%LOCATIONMETHOD% an Iranian bunker north of Kish Island, on the Iranian mainland, %LOCATION%.\
+\
+Primary Objectives: Destroy the large, green armoured bunker.\
+\
+Secondary Objectives: Destroy the three white hangars nearby.\
+\
+Recommended Pilots: 2\
+\
+Recommended Ordnance: Heavy ordnance required for bunker targets, e.g. Mk-84s or PGM Variants.",
 } -- end of staticTemplate

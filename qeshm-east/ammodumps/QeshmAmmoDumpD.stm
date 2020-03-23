@@ -1456,7 +1456,7 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "PersianGulf",
-    ["desc"] = "NATO Reconaissance elements have located an Iranian Ammo Dump %LOCATION%. Find and destroy the bunkers and the ordnance within.\
+    ["desc"] = "%LOCATIONMETHOD% an Iranian ammo dump at %LOCATION%. Find and destroy the bunkers and the ordnance within.\
 \
 Primary Objectives: Destroy the two large, armoured bunkers. They are heavily fortified, so accuracy is key.\
 \

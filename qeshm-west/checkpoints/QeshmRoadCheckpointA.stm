@@ -1542,5 +1542,13 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "PersianGulf",
-    ["desc"] = "",
+    ["desc"] = "%LOCATIONMETHOD% checkpoint at %LOCATION%, along the highway south of Qeshm airport.\
+\
+Primary Objectives: Destroy the two outpost buildings and any enemy armour.\
+\
+Secondary Objectives: N/A.\
+\
+Recommended Pilots: 2\
+\
+Recommended Ordnance: Pilot discretion.",
 } -- end of staticTemplate

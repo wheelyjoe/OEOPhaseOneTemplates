@@ -336,5 +336,13 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "PersianGulf",
-    ["desc"] = "",
+    ["desc"] = "%LOCATIONMETHOD% an Iranian bunker in the north end of Bandar-Lengeh, %LOCATION%.\
+\
+Primary Objectives: Destroy the large, green armoured bunker.\
+\
+Secondary Objectives: N/A.\
+\
+Recommended Pilots: 2\
+\
+Recommended Ordnance: Heavy ordnance required for bunker targets, e.g. Mk-84s or PGM Variants.",
 } -- end of staticTemplate

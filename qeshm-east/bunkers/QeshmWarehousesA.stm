@@ -1114,5 +1114,13 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "PersianGulf",
-    ["desc"] = "",
+    ["desc"] = "%LOCATIONMETHOD% an Iranian warehouse on Qeshm Island, near Kousha, %LOCATION%.\
+\
+Primary Objectives: Destroy the two large, brown bunkers.\
+\
+Secondary Objectives: Maximise damage to the remaining bunkers.\
+\
+Recommended Pilots: 2\
+\
+Recommended Ordnance: Pilot discretion.",
 } -- end of staticTemplate

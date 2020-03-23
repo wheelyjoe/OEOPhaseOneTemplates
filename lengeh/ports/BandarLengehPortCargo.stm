@@ -727,5 +727,13 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "PersianGulf",
-    ["desc"] = "",
+    ["desc"] = "%LOCATIONMETHOD% a convoy marshalling within the port at Bandar-Lengeh, %LOCATION%.\
+\
+Primary Objectives: Destroy the two cargo ships within the port.\
+\
+Secondary Objectives: N/A.\
+\
+Recommended Pilots: 2\
+\
+Recommended Ordnance: Pilot discretion",
 } -- end of staticTemplate

@@ -4755,5 +4755,13 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "PersianGulf",
-    ["desc"] = "",
+    ["desc"] = "%LOCATIONMETHOD% an active Silkworm site on the Iranian coastline in the Straight of Hormuz, %LOCATION%.\
+\
+Primary Objectives: Destroy the two RADAR elements of the Silkworm site, located between Bandar Abbas and Bandar-e-Jask.\
+\
+Secondary Objectives: Destroy the missile launchers of the site.\
+\
+Recommended Pilots: 2\
+\
+Recommended Ordnance: Pilot discretion.",
 } -- end of staticTemplate

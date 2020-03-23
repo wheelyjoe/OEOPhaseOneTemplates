@@ -587,9 +587,9 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "PersianGulf",
-    ["desc"] = "%LOCATIONMETHOD% an active SAM site within the vicinity of Khasab, %LOCATION%.\
+    ["desc"] = "%LOCATIONMETHOD% an active SA-6 Gainful SAM site within the vicinity of Khasab, %LOCATION%.\
 \
-Primary Objectives: Render the SAM site ineffective by destroying all its radar and launcher elements.\
+Primary Objectives: Destroy all RADAR and launcher vehicles / equipment .\
 \
 Secondary Objectives: None.\
 \

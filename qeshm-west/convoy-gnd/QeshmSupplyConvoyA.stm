@@ -3161,13 +3161,13 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "PersianGulf",
-    ["desc"] = "An Iranian Supply Convoy is expected to pass through %LOCATION% in around %TOT%. They must be engaged and destroyed there, while they are exposed. You will only have 10 to 15 minutes to engage them, so don't be late!\
+    ["desc"] = "%LOCATIONMETHOD% an Iranian supply convoy expected to pass through %LOCATION% in around %TOT%. Engage the convoy while it is exposed. The window for engagement is 10-15 minutes.\
 \
 Primary Objectives: Destroy 80% of the convoy. Prioritise the supply vehicles.\
 \
-Secondary Objectives: None.\
+Secondary Objectives: N/A.\
 \
 Recommended Pilots: 2\
 \
-Recommended Ordnance: 2x Mavericks, Rocket Pods / Unguided Bombs.",
+Recommended Ordnance: Pilot discretion.",
 } -- end of staticTemplate

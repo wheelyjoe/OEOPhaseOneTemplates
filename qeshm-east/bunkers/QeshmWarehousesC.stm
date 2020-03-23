@@ -1169,5 +1169,13 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "PersianGulf",
-    ["desc"] = "",
+    ["desc"] = "%LOCATIONMETHOD% an Iranian warehouse on Qeshm Island, south west of Paiposht, %LOCATION%.\
+\
+Primary Objectives: Destroy the brown bunker and three white warehouses.\
+\
+Secondary Objectives: Maximise damage to the remaining bunkers.\
+\
+Recommended Pilots: 2\
+\
+Recommended Ordnance: Pilot discretion.",
 } -- end of staticTemplate

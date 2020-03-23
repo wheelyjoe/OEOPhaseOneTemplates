@@ -3014,5 +3014,13 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "PersianGulf",
-    ["desc"] = "",
+    ["desc"] = "%LOCATIONMETHOD% an Iranian vehicle depot on Qeshm Island, %LOCATION%.\
+\
+Primary Objectives: Destroy the two large warehouses, west of the airport.\
+\
+Secondary Objectives: Destroy any vehicles in the AO.\
+\
+Recommended Pilots: 2\
+\
+Recommended Ordnance: Pilot discretion.",
 } -- end of staticTemplate

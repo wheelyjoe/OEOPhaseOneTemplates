@@ -701,5 +701,13 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "PersianGulf",
-    ["desc"] = "",
+    ["desc"] = "%LOCATIONMETHOD% an Iranian EWR site at %LOCATION%, in the Kish Island AO.\
+\
+Primary Objectives: Destroy the RADAR site and supporting infrastructure.\
+\
+Secondary Objectives: N/A.\
+\
+Recommended Pilots: 2\
+\
+Recommended Ordnance: Anti-radiation missiles (AGM-88C etc.), long range standoff weaponry (JSOW etc.).",
 } -- end of staticTemplate

@@ -1388,5 +1388,13 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "PersianGulf",
-    ["desc"] = "",
+    ["desc"] = "%LOCATIONMETHOD% an Iranian checkpoint at %LOCATION%, along the main highway between Bandar-Lengeh and Havadarya.\
+\
+Primary Objectives: Destroy the two outpost buildings and any enemy armour.\
+\
+Secondary Objectives: N/A.\
+\
+Recommended Pilots: 2\
+\
+Recommended Ordnance: Pilot discretion.",
 } -- end of staticTemplate

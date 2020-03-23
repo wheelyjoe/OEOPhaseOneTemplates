@@ -1873,5 +1873,13 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "PersianGulf",
-    ["desc"] = "",
+    ["desc"] = "%LOCATIONMETHOD% a factory on Qeshm Island, %LOCATION%, in the eastern side of Tola Industrial City.\
+\
+Primary Objectives: Destroy the main factory building, along with the acompanying smoke stacks and brown warehouse.\
+\
+Secondary Objectives: Destroy the white hangars within the facotry complex.\
+\
+Recommended Pilots: 2\
+\
+Recommended Ordnance: Pilot discretion",
 } -- end of staticTemplate

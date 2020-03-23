@@ -466,7 +466,7 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "PersianGulf",
-    ["desc"] = "%LOCATIONMETHOD% an Iranian EWR site at %LOCATION%.\
+    ["desc"] = "%LOCATIONMETHOD% an Iranian EWR site at %LOCATION%, in the vicinity of Khasab.\
 \
 Primary Objectives: Destroy the RADAR site and supporting infrastructure.\
 \
@@ -474,5 +474,5 @@ Secondary Objectives: Destroy any and all SHORAD defending the EWR site.\
 \
 Recommended Pilots: 2\
 \
-Recommended Ordnance: Precision guided standoff munitions, Laser / GPS guided weaponry with associated TGPs as required.",
+Recommended Ordnance: Anti-radiation missiles (AGM-88C etc.), long range standoff weaponry (JSOW etc.).",
 } -- end of staticTemplate

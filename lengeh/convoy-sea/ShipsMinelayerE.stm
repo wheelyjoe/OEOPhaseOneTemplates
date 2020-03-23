@@ -931,5 +931,13 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "PersianGulf",
-    ["desc"] = "",
+    ["desc"] = "%LOCATIONMETHOD% a minelaying convoy sailing west in the Straights of Hormuz, currently estimated to be at %LOCATION%. Required Time on Target is: %TOT%\
+\
+Primary Objectives: Destroy the larger, Grisha class minelaying vessel.\
+\
+Secondary Objectives: Destroy the escorting Molinya class vessel.\
+\
+Recommended Pilots: 2\
+\
+Recommended Ordnance: Anti-ship missiles, guided munitions, or unguided bombs.",
 } -- end of staticTemplate
