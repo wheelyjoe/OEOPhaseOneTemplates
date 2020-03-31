@@ -3,4 +3,5 @@ metadata = {
 	["objtype"]  = "sam",
 	["exclusion"] = "TunbSAM",
 	["base"]     = nil,
+	["intel"]	 = 2,
 }

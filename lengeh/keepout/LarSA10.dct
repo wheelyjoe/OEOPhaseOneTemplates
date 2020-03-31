@@ -1,6 +1,6 @@
 metadata = {
 	["rank"]     = 2,
 	["objtype"]  = "keepout",
-
 	["base"]     = nil,
+	["intel"]	 = 2,
 }

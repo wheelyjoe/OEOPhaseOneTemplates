@@ -2,4 +2,5 @@ metadata = {
 	["rank"]     = 2,
 	["objtype"]  = "sea",
 	["base"]     = nil,
+	["intel"]	 = 2,
 }

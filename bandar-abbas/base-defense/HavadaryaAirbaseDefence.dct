@@ -2,4 +2,6 @@ metadata = {
 	["rank"]     = 2,
 	["objtype"]  = "basedefense",
 	["base"]     = "BASENAME",
+	["intel"]	 = 2,
+
 }
