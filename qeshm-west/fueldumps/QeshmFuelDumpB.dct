@@ -3,4 +3,5 @@ metadata = {
 	["objtype"]  = "fueldump",
 	["base"]     = nil,
 	["intel"]	 = 3,
+	["alwaysSpawn"] = false,
 }

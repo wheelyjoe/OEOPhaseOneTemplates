@@ -3,4 +3,5 @@ metadata = {
 	["objtype"]  = "keepout",
 	["base"]     = nil,
 	["intel"]	 = 3,
+	["alwaysSpawn"] = true,
 }

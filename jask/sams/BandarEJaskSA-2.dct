@@ -4,4 +4,5 @@ metadata = {
 	["priority"] = 1,
 	["base"]     = nil,
 	["intel"]	 = 2,
+	["alwaysSpawn"] = false,
 }

@@ -3,4 +3,5 @@ metadata = {
 	["objtype"]  = "port",
 	["base"]     = nil,	
 	["intel"]	 = 2,
+	["alwaysSpawn"] = false,
 }

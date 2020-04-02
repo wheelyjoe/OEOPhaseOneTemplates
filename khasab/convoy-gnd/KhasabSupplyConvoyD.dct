@@ -3,4 +3,5 @@ metadata = {
 	["objtype"]  = "ammodump",
 	["base"]     = nil,
 	["intel"]	 = 2, 
+	["alwaysSpawn"] = false,
 }

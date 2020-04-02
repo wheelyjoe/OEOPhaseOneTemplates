@@ -4,4 +4,5 @@ metadata = {
 	["exclusion"] = "TunbSAM",
 	["base"]     = nil,
 	["intel"]	 = 2,
+	["alwaysSpawn"] = false,
 }

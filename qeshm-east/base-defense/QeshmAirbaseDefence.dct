@@ -3,4 +3,5 @@ metadata = {
 	["objtype"]  = "basedefense",
 	["base"]     = "BASENAME",
 	["intel"]	 = 3,
+	["alwaysSpawn"] = false,
 }
